@@ -1,0 +1,480 @@
+16:26:20.932 [missions] script loading: load all ok, subsumption ok, file change ok, system ok
+16:26:21.007 [contracts] mission diagnostics: objective hook ok, active player hook ok, UI objective notice ok (hidden check ok), warehouse order queue guarded
+16:26:21.016 [contracts] mission entity hook ok, add player ok
+16:26:21.175 [contracts] mission modules: start ok, authority ok, service answer ok, objectives to logs ok, create objective ok
+16:26:21.407 [contracts] reputation service checks: 10 site(s) patched (offline a contract's reputation reward fails instead of freezing)
+16:26:21.552 [contracts] rewards: game's processing off, mission log entry ok (client's ok), total reward ok, wallet update ok
+16:26:21.576 [shops] wallet payments taken here (no ledger service offline)
+16:26:21.724 [contracts] contract steps: end mission ok, environmental mission end ok, actor deaths ok, delivery helpers ok
+16:26:21.829 [contracts] mission stream radius ok
+16:26:22.392 [contracts] phases: start ok, flow ok, hauling objectives ok, their texts ok
+16:26:22.402 [contracts] abandon: service ok, module stop ok
+16:26:22.656 [contracts] list filler ok, accept hook ok, mission system ok (generator +70h), 2 auto-accept callers
+16:26:22.656 [contracts] mission creation: factory ok, shard graph ok, shard store ok, owner ok/ok, string ok, accept answer ok, offline mission service ok
+16:26:22.656 [contracts] mission log: AddMission ok, add player ok, details copy ok, phase handler ok, phase activation ok
+16:26:22.671 [+] infinite ammo: ready (M menu)
+16:26:23.513 ChrisWareOffline v0.9.0-rc1
+16:26:23.513 Join our Discord server https://discord.gg/bUAuKMJUJs
+16:26:23.513 [+] game module base: 0x00007FF757020000
+16:26:23.537 [+] No anti-cheat present. Safe to proceed (offline instance confirmed).
+16:26:23.537 [+] offline-force (IsOnline = 0): patched 1 site(s), first at 0x00007FF75E230A1D
+16:26:23.537 [+] local handshake (accept frontend connection): patched 4 site(s), first at 0x00007FF7584BF4B0
+16:26:23.537 [+] megamap keeps record-name case: patched 1 site(s), first at 0x00007FF759D23164
+16:26:23.537 [+] boot into PU (frontend request -> PU/SC_Default): patched 1 site(s), first at 0x00007FF75C6E754D
+16:26:23.537 [+] offline player data from %USER%\default_1.xml: patched 2 site(s), first at 0x00007FF757F41912
+16:26:23.537 [+] query OR-loop bound fix: patched 4 site(s), first at 0x00007FF757F48DEE
+16:26:23.537 [+] ASOP / fleet manager allowed on offline shard: patched 2 site(s), first at 0x00007FF75BC3B67F
+16:26:23.537 [+] landing zones don't destroy spawned ships: patched 1 site(s), first at 0x00007FF75B7BEBD0
+16:26:23.537 [+] offline contract broker + mission service (mobiGlas contracts): patched 2 site(s), first at 0x00007FF75885B076
+16:26:23.537 [+] party/group checks without the social service (ramming, hostility, law): patched 23 site(s), first at 0x00007FF758A35A21
+16:26:23.537 [+] no reconnecting service streams (presence, analytics, trace, echo): patched 4 site(s), first at 0x00007FF757DF0FB0
+16:26:23.537 [+] remote console only on this PC (127.0.0.1): patched 1 site(s), first at 0x00007FF75E154B32
+16:26:23.537 [+] no Optick profiler server (TCP 31318 closed): patched 1 site(s), first at 0x00007FF75E2907D2
+16:26:23.537 [+] inventory filter validator: patched 1 site(s), first at 0x00007FF757F49A80
+16:26:23.537 [+] inventory projection validator: patched 1 site(s), first at 0x00007FF757F49F30
+16:26:23.538 [+] hangar elevator crash guard: patched 1 site(s), first at 0x00007FF75A9D72D0
+16:26:23.538 [+] fleet manager ship list (offline): patched 1 site(s), first at 0x00007FF75C6C8990
+16:26:23.538 [+] fleet manager retrieve -> spaceport ATC: patched 1 site(s), first at 0x00007FF75BC4B0F0
+16:26:23.538 [+] new quantum drive: game data loader hooked (the Gladius' drive data is patched in as it loads)
+16:26:23.538 [+] quantum boost: hold Caps Lock, or NAV mode + hold left mouse
+16:26:23.538 [+] teleport: ready (F7 = save spot, F8 = go there)
+16:26:23.538 [+] ship spawner: ready (M = menu)
+16:26:23.538 [i] check Game.log: "Process sc-client started" line should show bOnline[0].
+16:26:23.538 [tp] no saved spot yet: stand where you want to spawn and press F7 (F8 = go there now)
+16:26:39.132 [+] new quantum drive: game data patched as it loaded (15 edits, 331932921 -> 331936569 bytes; the Gladius gets the new drive), load ok
+16:26:43.404 [+] v_qdrive2.quantumTravelAllowed = 1, p_enable_physical_quantum_travel 1
+16:26:43.405 [+] v_qdrive2.quantumBoostAllowed = 1
+16:26:43.405 [+] v_qdrive2.setting_ignoreBlockedBoost = 1
+16:26:43.406 [+] v_qdrive2.setting_ignoreBlockedTravel = 1
+16:26:43.406 [+] v_qdrive.logging = 1
+16:26:43.406 [+] v_qdrive2.setting_targetLockAngularSpeedThresholdPlayer = 45
+16:26:43.406 [+] v_qdrive2.setting_targetLockLinearSpeedThresholdPlayer = 1000
+16:26:43.406 [contracts] mission entities stay loaded from anywhere (stream radius 25000 m -> 99999997952 m)
+16:26:43.429 [travel] 769 places from locations_found.txt
+16:26:43.452 [travel] 3 saved spots
+16:27:12.095 [+] v_qdrive2.quantumTravelAllowed = 1, p_enable_physical_quantum_travel 1
+16:27:12.095 [+] v_qdrive2.quantumBoostAllowed = 1
+16:27:12.095 [+] v_qdrive2.setting_targetLockAngularSpeedThresholdPlayer = 45
+16:27:12.095 [+] v_qdrive2.setting_targetLockLinearSpeedThresholdPlayer = 1000
+16:27:33.667 [god] god mode on (no damage)
+16:27:33.700 [inv] dropping filter on property 'itemTypeEnum' (not indexed offline)
+16:27:33.700 [inv] dropping filter on property 'itemTypeEnum' (not indexed offline)
+16:27:33.700 [inv] dropping filter on property 'itemSubTypeEnum' (not indexed offline)
+16:27:33.801 [cvars] console: ai_SubsumptionEnableDebugNodes 1
+16:27:35.021 [missions] added 229 of our 229 scripts to the game's script library (from D:\New folder\ChrisWareOffline-main1\data\scripts)
+16:27:35.291 [missions] loaded the game's mission scripts in 265 ms (Game.log: "Mission loaded [...]")
+16:27:48.785 [contracts] 4201 contract definitions
+16:27:48.829 [contracts] 2153 contracts known; 1657 run CIG's way here (scripts we have, or hauling)
+16:27:48.840 [contracts] 1515 of the generator's 4201 contracts are in contract_scripts.txt
+16:27:49.240 [contracts] sent 40 contracts to mobiGlas (0 faulted, 387 candidates); Game.log has "Failed to generate contract" for any the game rejected
+16:27:49.243 [contracts] wallet: no saved balance - 100000000 aUEC from the offline data file
+16:27:49.247 [contracts] wallet: 100000000 aUEC from wallet.txt (was 0, now 100000000)
+16:27:59.113 [contracts] accept for 'FoxwellEnforcement_EliminateSpecific_NonHostiles' by player 14618994950939869184 (seed 2553193957) on thread 28560 (mod thread 9896), details copied
+16:27:59.255 [contracts] details: 1 objective(s), 0 entries at +D0h
+16:27:59.256 [contracts] mission registered with the mission service, you as its player
+16:27:59.958 [contracts] the offer's 2 properties go to the mission build
+16:27:59.958 [contracts]   property 'DataSetEntry.Location|BP_MissionLocation|Location' (type 1) = 0000000011b0fcaa 00000000188cd000 00000003c540a000 0000000010000000
+16:27:59.958 [contracts]   property 'DataSetEntry.Organization||Contractor' (type 1) = 00000000fc905099 0000000000000017 0000000000000000 0000000000000000
+16:27:59.961 [contracts] phase 'Main Target' of our mission started
+16:27:59.961 [contracts]   its objective 'phase_857c42b9-0de6-4acb-82bb-c9c528afe27a' (flags 205005) stays with the phase
+16:27:59.961 [contracts] created mission dd7601a39e3779260be0e5724f064ddd for 'FoxwellEnforcement_EliminateSpecific_NonHostiles' (shard 'local_shard') with the offer's locations; Game.log has CreateMission errors if the game refused it
+16:28:00.016 [contracts] our mission module 00000547C0001A28 gained authority (state 1)
+16:28:00.017 [contracts] our mission module 00000547C8001CC8 gained authority (state 0)
+16:28:00.035 [contracts] mission service answered our mission module 00000547C0001A28: found, state 1 -> 3
+16:28:00.035 [contracts] mission service answered our mission module 00000547C8001CC8: found, state 0 -> 0
+16:28:00.055 [contracts] our mission's objective '4ee7bf42-00fe-2ff9-97f6-c07d947aeca3' goes to its players' mission logs
+16:28:00.075 [contracts] objective '4ee7bf42-00fe-2ff9-97f6-c07d947aeca3' -> a mission log (mission dd7601a39e3779260be0e5724f064ddd)
+16:28:00.075 [contracts] objective '4ee7bf42-00fe-2ff9-97f6-c07d947aeca3': announcing (flags 8, text 2201ef53, silent 0)
+16:28:00.075 [contracts] objective '4ee7bf42-00fe-2ff9-97f6-c07d947aeca3': mobiGlas and the HUD told
+16:28:02.568 [contracts] our mission module 00000547C0001A28 is here (state 3)
+16:28:02.569 [contracts] mission entity 00000547C0001F90 takes on player 14618994950939869184
+16:28:02.569 [contracts] 'FoxwellEnforcement_EliminateSpecific_NonHostiles': runs CIG's way on its own script (PU_EliminateSpecific)
+16:28:02.569 [contracts] 'FoxwellEnforcement_EliminateSpecific_NonHostiles': accept comms sent
+16:28:02.569 [contracts] our mission module 00000547C8001CC8 is here (state 0)
+16:28:02.569 [contracts] our mission module 00000547C8001CC8: mission instance still missing (created it now)
+16:28:02.877 [gear] 1421 items in the gear menu (68 unknown names skipped)
+16:28:04.062 [ship] Noclip on (speed 30).
+16:28:55.247 [ship] 7 names in the ships file aren't spawnable classes (skipped)
+16:28:55.248 [ship] 1095 ships in the spawn menu
+16:29:01.040 [ship] Spawning AEGS_Gladius_Dunlevy - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:29:02.245 [ship] linking you into 'AEGS_Gladius_SCItem_Seat_Pilot_200004041148' (priority 1010, pilot)
+16:29:02.245 [ship] seat request 1 sent to AEGS_Gladius_Dunlevy
+16:29:02.539 [qt] you control a new quantum drive: hold Caps Lock, or B for NAV mode then hold left mouse (no quantum target = boost, target = travel)
+16:29:02.683 [qt] quantum effects warmed up (11 tags on and off) - the first boost plays in full
+16:29:02.683 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason Unknown), travel blocked 0
+16:29:03.739 [qt] new drive input handler got action 929
+16:29:03.741 [qt] new drive input handler got action 368
+16:29:03.741 [qt] new drive input handler got action 300
+16:29:03.780 [qt] new drive input handler got action 458
+16:29:03.781 [qt] new drive input handler got action 305
+16:29:04.050 [ship] You're in the AEGS_Gladius_Dunlevy's pilot seat - powering up...
+16:29:04.051 [crew] seat occupant field read as a raw entity id
+16:29:04.207 [qt] new drive input handler got action 702
+16:29:05.655 [ship] using the first dashboard found on the ship
+16:29:05.655 [ship] AEGS_Gladius_Dunlevy powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:29:06.239 [qt] new drive input handler got action 787
+16:29:06.239 [qt] new drive input handler got action 756
+16:29:06.240 [qt] new drive input handler got action 744
+16:29:16.506 [gear] equipped (offline_loadout_5640_1.xml)
+16:29:17.720 [qt] new drive input handler got action 701
+16:29:18.784 [qt] new drive input handler got action 8
+16:29:22.103 [ship] Noclip off (speed 30).
+16:29:22.501 [ship] Noclip on (speed 30).
+16:29:36.534 [qt] you control a new quantum drive: hold Caps Lock, or B for NAV mode then hold left mouse (no quantum target = boost, target = travel)
+16:29:39.720 [qt] new drive input handler got action 914
+16:29:39.720 [qt] new drive input handler got action 3
+16:29:39.720 [qt] new drive input handler got action 308
+16:29:39.725 [qt] new drive input handler got action 1071
+16:29:40.724 [qt] new drive input handler got action 1075
+16:29:40.815 [qt] new drive input handler got action 568
+16:29:44.476 [qt] new drive input handler got action 571
+16:29:44.569 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:29:48.528 [qt] Caps Lock down -> quantum hold pressed
+16:29:48.528 [qt] drive: Off, powered 1, input 1, boost blocked 0 (reason none), travel blocked 0
+16:29:48.785 [qt] sound ids: Lightball 53B71413, Portal 7F3836D0
+16:29:48.785 [qt] drive: TargetLocking, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:29:49.036 [qt] Charging: charge 0.01 (game: 1), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:29:49.110 [qt] drive: Charging, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:29:50.035 [qt] Charging: charge 1.00 (game: 1), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:29:50.058 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:29:50.989 [qt] Caps Lock up -> quantum hold released
+16:29:50.989 [qt] drive: BoostingSlow, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:29:51.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:52.041 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:53.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:54.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:55.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:56.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:57.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:58.042 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:29:59.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:00.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:01.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:02.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:03.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:04.039 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:05.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:06.041 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:07.039 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:08.039 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:09.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:10.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:11.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:12.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:13.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:14.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:15.039 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:16.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:17.041 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:18.034 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:19.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:20.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:21.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:22.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:23.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:24.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:25.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:26.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:27.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:28.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:29.041 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:30.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:31.041 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:32.034 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:33.037 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:34.038 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:35.040 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:36.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:37.035 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:38.036 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:30:38.535 [qt] Caps Lock down -> quantum hold pressed
+16:30:38.535 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:30:39.037 [qt] CancelingBoost: charge 1.00 (game: 2), alignment 0.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:30:39.122 [qt] drive: CancelingBoost, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:30:39.913 [qt] drive: Cooldown, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:30:40.041 [qt] Cooldown: charge 0.61 (game: 2), alignment 0.00, blocked 1, rates 1.00/0.10/1.00, curve(1) 1.00
+16:30:40.337 [qt] Caps Lock up -> quantum hold released
+16:30:40.337 [qt] drive: Cooldown, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:30:40.555 [qt] new drive input handler got action 1079
+16:30:40.556 [qt] new drive input handler got action 465
+16:30:40.938 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:49.863 [qt] new drive input handler got action 923
+16:30:49.863 [qt] new drive input handler got action 460
+16:30:51.544 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:52.137 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:53.520 [qt] Caps Lock down -> quantum hold pressed
+16:30:53.520 [qt] drive: Off, powered 1, input 1, boost blocked 0 (reason none), travel blocked 0
+16:30:53.775 [qt] Caps Lock up -> quantum hold released
+16:30:53.776 [qt] drive: WaitForInputDelay, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:30:53.974 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:54.974 [qt] Caps Lock down -> quantum hold pressed
+16:30:54.974 [qt] drive: Off, powered 1, input 1, boost blocked 0 (reason none), travel blocked 0
+16:30:55.176 [qt] Caps Lock up -> quantum hold released
+16:30:55.177 [qt] drive: WaitForInputDelay, powered 1, input 0, boost blocked 0 (reason RotationUnstable), travel blocked 0
+16:30:55.382 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:56.384 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:56.923 [qt] new drive input handler got action 1082
+16:30:56.923 [qt] new drive input handler got action 326
+16:30:57.176 [qt] new drive input handler got action 579
+16:30:57.176 [qt] engage -> quantum hold pressed (let go of the mouse button to stop)
+16:30:57.382 [qt] drive: Off, powered 0, input 1, boost blocked 0 (reason none), travel blocked 0
+16:30:57.528 [qt] mouse button up -> quantum hold released
+16:30:57.786 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:57.916 [qt] new drive input handler got action 564
+16:30:58.190 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:30:58.224 [qt] new drive input handler got action 1102
+16:30:58.224 [qt] new drive input handler got action 924
+16:30:58.224 [qt] new drive input handler got action 459
+16:30:59.247 [qt] new drive input handler got action 544
+16:31:02.235 [qt] new drive input handler got action 910
+16:31:02.235 [qt] new drive input handler got action 902
+16:31:04.002 [qt] Caps Lock down -> quantum hold pressed
+16:31:04.003 [qt] drive: Off, powered 1, input 1, boost blocked 0 (reason none), travel blocked 0
+16:31:04.201 [qt] drive: WaitForInputDelay, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:04.322 [qt] drive: TargetLocking, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:04.487 [qt] Charging: charge 0.01 (game: 1), alignment 0.92, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:31:04.559 [qt] drive: Charging, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:05.491 [qt] Charging: charge 0.87 (game: 1), alignment 0.92, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:31:05.687 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:06.031 [qt] Caps Lock up -> quantum hold released
+16:31:06.032 [qt] drive: BoostingSlow, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:31:06.492 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:07.492 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:08.488 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:09.487 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:10.487 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:11.489 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:12.494 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:31:12.583 [qt] Caps Lock down -> quantum hold pressed
+16:31:12.584 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:13.156 [qt] drive: CancelingBoost, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:13.494 [qt] CancelingBoost: charge 0.96 (game: 2), alignment 0.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:31:13.612 [qt] drive: Cooldown, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:31:14.029 [qt] Caps Lock up -> quantum hold released
+16:31:14.029 [qt] drive: Cooldown, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:31:14.492 [qt] Cooldown: charge 0.00 (game: 0), alignment 0.00, blocked 1, rates 1.00/0.10/1.00, curve(1) 1.00
+16:31:14.633 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:14.833 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:17.243 [ship] Noclip off (speed 30).
+16:31:20.049 [ship] Spawning AEGS_Gladius_Dunlevy - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:31:20.646 [ship] linking you into 'AEGS_Gladius_SCItem_Seat_Pilot_200004041306' (priority 1010, pilot)
+16:31:20.647 [ship] seat request 1 sent to AEGS_Gladius_Dunlevy
+16:31:20.867 [qt] you control a new quantum drive: hold Caps Lock, or B for NAV mode then hold left mouse (no quantum target = boost, target = travel)
+16:31:21.049 [qt] quantum effects warmed up (11 tags on and off) - the first boost plays in full
+16:31:21.049 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason Unknown), travel blocked 0
+16:31:22.454 [ship] You're in the AEGS_Gladius_Dunlevy's pilot seat - powering up...
+16:31:24.055 [ship] using the first dashboard found on the ship
+16:31:24.055 [ship] AEGS_Gladius_Dunlevy powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:31:25.262 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:47.912 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:48.473 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:51.655 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:31:52.382 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:32:00.156 [ship] Spawning AEGS_Gladius - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:32:00.760 [ship] linking you into 'AEGS_Gladius_SCItem_Seat_Pilot_200004041442' (priority 1010, pilot)
+16:32:00.760 [ship] seat request 1 sent to AEGS_Gladius
+16:32:01.660 [qt] you control a new quantum drive: hold Caps Lock, or B for NAV mode then hold left mouse (no quantum target = boost, target = travel)
+16:32:01.765 [qt] quantum effects warmed up (11 tags on and off) - the first boost plays in full
+16:32:01.766 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason Unknown), travel blocked 0
+16:32:02.565 [ship] You're in the AEGS_Gladius's pilot seat - powering up...
+16:32:04.170 [ship] using the first dashboard found on the ship
+16:32:04.170 [ship] AEGS_Gladius powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:32:24.427 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:32:34.456 [ship] Noclip on (speed 30).
+16:32:46.087 [ship] Noclip off (speed 30).
+16:32:55.116 [ship] Spawning AEGS_Gladius_Dunlevy - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:32:55.718 [ship] linking you into 'AEGS_Gladius_SCItem_Seat_Pilot_200004045360' (priority 1010, pilot)
+16:32:55.718 [ship] seat request 1 sent to AEGS_Gladius_Dunlevy
+16:32:55.930 [qt] you control a new quantum drive: hold Caps Lock, or B for NAV mode then hold left mouse (no quantum target = boost, target = travel)
+16:32:56.119 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason Unknown), travel blocked 0
+16:32:57.523 [ship] You're in the AEGS_Gladius_Dunlevy's pilot seat - powering up...
+16:32:59.130 [ship] using the first dashboard found on the ship
+16:32:59.130 [ship] AEGS_Gladius_Dunlevy powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:33:03.745 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:33:09.900 [qt] Caps Lock down -> quantum hold pressed
+16:33:09.901 [qt] drive: Off, powered 1, input 1, boost blocked 0 (reason none), travel blocked 0
+16:33:10.170 [qt] drive: TargetLocking, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:33:10.410 [qt] Charging: charge 0.01 (game: 1), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:33:10.477 [qt] drive: Charging, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:33:11.413 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:11.460 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:33:12.174 [qt] Caps Lock up -> quantum hold released
+16:33:12.174 [qt] drive: BoostingSlow, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:33:12.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:13.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:14.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:15.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:16.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:17.413 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:18.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:19.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:20.413 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:21.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:22.417 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:23.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:24.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:25.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:26.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:27.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:28.416 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:29.409 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:30.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:31.416 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:32.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:33.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:34.417 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:35.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:36.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:37.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:38.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:39.413 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:40.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:41.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:42.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:43.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:44.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:45.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:46.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:47.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:48.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:49.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:50.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:51.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:52.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:53.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:54.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:55.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:56.413 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:57.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:58.409 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:33:59.417 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:00.416 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:01.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:02.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:03.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:04.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:05.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:06.417 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:07.416 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:08.409 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:09.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:10.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:11.412 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:12.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:13.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:14.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:15.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:16.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:17.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:18.409 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:19.416 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:20.410 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:21.409 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:22.414 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:23.415 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:24.411 [qt] BoostingSlow: charge 1.00 (game: 3), alignment 1.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00 -> kept full
+16:34:24.519 [qt] Caps Lock down -> quantum hold pressed
+16:34:24.519 [qt] drive: BoostingSlow, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:34:25.015 [qt] drive: CancelingBoost, powered 1, input 1, boost blocked 0 (reason None), travel blocked 0
+16:34:25.433 [qt] CancelingBoost: charge 0.97 (game: 2), alignment 0.00, blocked 0, rates 1.00/0.10/1.00, curve(1) 1.00
+16:34:25.819 [qt] Caps Lock up -> quantum hold released
+16:34:25.819 [qt] drive: CancelingBoost, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:34:26.039 [qt] drive: Cooldown, powered 1, input 0, boost blocked 0 (reason None), travel blocked 0
+16:34:26.432 [qt] Cooldown: charge 0.29 (game: 2), alignment 0.00, blocked 1, rates 1.00/0.10/1.00, curve(1) 1.00
+16:34:26.825 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:34:30.024 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:34:30.727 [qt] engage -> quantum hold pressed (let go of the mouse button to stop)
+16:34:30.819 [qt] drive: Off, powered 0, input 1, boost blocked 0 (reason none), travel blocked 0
+16:34:31.225 [qt] mouse button up -> quantum hold released
+16:34:31.426 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:34:32.368 [qt] engage -> quantum hold pressed (let go of the mouse button to stop)
+16:34:32.424 [qt] mouse button up -> quantum hold released
+16:34:32.425 [qt] drive: Off, powered 0, input 1, boost blocked 0 (reason none), travel blocked 0
+16:34:32.626 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:34:35.065 [ammo] infinite ship ammo on
+16:34:37.501 [qt] engage -> quantum hold pressed (let go of the mouse button to stop)
+16:34:37.614 [qt] drive: Off, powered 0, input 1, boost blocked 0 (reason none), travel blocked 0
+16:34:41.050 [qt] mouse button up -> quantum hold released
+16:34:41.255 [qt] drive: Off, powered 0, input 0, boost blocked 0 (reason none), travel blocked 0
+16:34:42.845 [qt] drive: Off, powered 1, input 0, boost blocked 0 (reason none), travel blocked 0
+16:35:03.697 [contracts] accept for 'BountyHuntersGuild_Bounty_Stanton_Super' by player 14618994950939869184 (seed 3276352383) on thread 25500 (mod thread 9896), details copied
+16:35:03.719 [contracts] details: 1 objective(s), 0 entries at +D0h
+16:35:03.719 [contracts] mission registered with the mission service, you as its player
+16:35:04.321 [contracts] the offer's 2 properties go to the mission build
+16:35:04.321 [contracts]   property 'DataSetEntry.Location|MissionLocation_BP|Location' (type 1) = 00000000eff24a86 0000000000000000 0000000000000000 0000000000000000
+16:35:04.322 [contracts]   property 'DataSetEntry.Organization||Contractor' (type 1) = 00000000bbeed77c 000000001bc88000 00000003c540a000 0000000010000000
+16:35:04.324 [contracts] phase 'Main Target' of our mission started
+16:35:04.324 [contracts]   its objective 'phase_28106f58-a08a-46f9-bed8-aa3580c52237' (flags 205005) stays with the phase
+16:35:04.324 [contracts] created mission 61da04343c6ef3d231d53871753b88f5 for 'BountyHuntersGuild_Bounty_Stanton_Super' (shard 'local_shard') with the offer's locations; Game.log has CreateMission errors if the game refused it
+16:35:04.349 [contracts] our mission module 00000547C0002DF8 gained authority (state 1)
+16:35:04.349 [contracts] our mission module 00000547C8003338 gained authority (state 0)
+16:35:04.349 [contracts] our mission module 00000547C80049A8 gained authority (state 0)
+16:35:04.357 [contracts] mission service answered our mission module 00000547C0002DF8: found, state 1 -> 3
+16:35:04.357 [contracts] mission service answered our mission module 00000547C8003338: found, state 0 -> 0
+16:35:04.357 [contracts] mission service answered our mission module 00000547C80049A8: found, state 0 -> 0
+16:35:04.364 [contracts] our mission's objective '44a009ed-17e9-ff60-d2a8-c5143d71f083' goes to its players' mission logs
+16:35:04.365 [contracts] objective '44a009ed-17e9-ff60-d2a8-c5143d71f083' -> a mission log (mission 61da04343c6ef3d231d53871753b88f5)
+16:35:04.365 [contracts] objective '44a009ed-17e9-ff60-d2a8-c5143d71f083': announcing (flags 8, text 6ffd4507, silent 0)
+16:35:04.365 [contracts] objective '44a009ed-17e9-ff60-d2a8-c5143d71f083': mobiGlas and the HUD told
+16:35:06.931 [contracts] our mission module 00000547C0002DF8 is here (state 3)
+16:35:06.932 [contracts] mission entity 00000547C0003360 takes on player 14618994950939869184
+16:35:06.932 [contracts] 'BountyHuntersGuild_Bounty_Stanton_Super': runs CIG's way on its own script (KillShip)
+16:35:06.932 [contracts] 'BountyHuntersGuild_Bounty_Stanton_Super': accept comms sent
+16:35:06.932 [contracts] our mission module 00000547C8003338 is here (state 0)
+16:35:06.932 [contracts] our mission module 00000547C80049A8 is here (state 0)
+16:35:06.932 [contracts] our mission module 00000547C8003338: mission instance still missing (created it now)
+16:35:06.932 [contracts] our mission module 00000547C80049A8: mission instance still missing (created it now)
+16:35:26.992 [ship] Noclip on (speed 30).
+16:35:42.100 [contracts] our mission's objective '43989131-67ed-55ea-a22f-3891b27e2c84' goes to its players' mission logs
+16:35:42.110 [contracts] objective '43989131-67ed-55ea-a22f-3891b27e2c84' -> a mission log (mission 61da04343c6ef3d231d53871753b88f5)
+16:35:42.110 [contracts] objective '43989131-67ed-55ea-a22f-3891b27e2c84': announcing (flags 8, text f6f414bd, silent 0)
+16:35:42.110 [contracts] objective '43989131-67ed-55ea-a22f-3891b27e2c84': mobiGlas and the HUD told
+16:35:54.871 [ship] Spawning ANVL_Lightning_F8 - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:35:55.473 [ship] linking you into 'ANVL_Lightning_F8_SCItem_Seat_Pilot_200004051059' (priority 1010, pilot)
+16:35:55.473 [ship] seat request 1 sent to ANVL_Lightning_F8
+16:35:57.276 [ship] You're in the ANVL_Lightning_F8's pilot seat - powering up...
+16:35:58.772 [ship] using the first dashboard found on the ship
+16:35:58.772 [ship] ANVL_Lightning_F8 powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:37:53.993 [contracts] actor 200004047218 died
+16:38:59.259 [gear] equipped (offline_loadout_5640_2.xml)
+16:39:08.681 [ship] Noclip off (speed 30).
+16:39:09.083 [ship] Noclip on (speed 30).
+16:39:12.868 [gear] equipped (offline_loadout_5640_3.xml)
+16:39:41.085 [ammo] infinite ammo on
+16:39:50.687 [contracts] actor 200004046881 died
+16:39:50.687 [contracts] actor 200004046822 died
+16:40:35.682 [contracts] actor 200004046306 died
+16:42:43.665 [contracts] actor 200004046295 died
+16:42:43.666 [contracts] actor 200004046285 died
+16:42:43.666 [contracts] actor 200004046307 died
+16:43:00.288 [contracts] actor 200004047798 died
+16:43:56.213 [contracts] actor 200004046719 died
+16:43:56.237 [contracts] actor 200004046693 died
+16:44:29.962 [contracts] actor 200004047009 died
+16:44:29.987 [contracts] actor 200004046982 died
+16:44:43.572 [contracts] actor 200004047120 died
+16:46:39.817 [ship] Spawning AEGS_Retaliator - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:46:42.309 [ship] linking you into 'AEGS_Retaliator_SCItem_Seat_Pilot_200004051479' (priority 1010, pilot)
+16:46:42.309 [ship] seat request 1 sent to AEGS_Retaliator
+16:46:44.092 [ship] You're in the AEGS_Retaliator's pilot seat - powering up...
+16:46:45.727 [ship] using the first dashboard found on the ship
+16:46:45.727 [ship] AEGS_Retaliator powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:47:58.293 [ship] Spawning RSI_Perseus - you'll be put in the pilot seat as soon as it's there (big ships take up to a minute).
+16:48:02.572 [ship] linking you into 'RSI_Perseus_Pilot_SeatDashboard_200004052255' (priority 1000, pilot)
+16:48:02.573 [ship] seat request 1 sent to RSI_Perseus
+16:48:04.369 [ship] You're in the RSI_Perseus's pilot seat - powering up...
+16:48:05.976 [ship] RSI_Perseus powered on - sent the game's Flight Ready event to the pilot dashboard.
+16:48:16.509 [contracts] actor 200004046567 died
+16:48:25.859 [contracts] actor 200004046551 died
+16:48:25.919 [contracts] actor 200004046445 died
+16:48:25.921 [contracts] actor 200004046473 died
+16:48:25.922 [contracts] actor 200004046499 died
+16:48:25.924 [contracts] actor 200004046517 died
+16:48:56.528 [contracts] actor 200004047316 died
+16:48:56.548 [contracts] our mission module 00000547C8003338 lost authority (state 6)
+16:48:56.549 [contracts] our mission module 00000547C80049A8 lost authority (state 6)
+16:48:56.578 [contracts] our mission module 00000547C0002DF8 lost authority (state 6)
+16:48:56.646 [contracts] a contract's phase ended Completed
+16:48:56.647 [contracts] the contract's flow: 0 phases started, 0 running, mission state 2
+16:48:56.647 [contracts] the contract completes
+16:48:56.656 [contracts] a contract's script completed it; reward 113000 aUEC paid (wallet 100113000)

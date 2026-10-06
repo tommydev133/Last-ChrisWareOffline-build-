@@ -1,0 +1,771 @@
+# Places found by the in-game scan (Travel tab). Same format as locations.txt.
+# Radius 0 = unknown; put the real radius in metres to arrive right above the surface.
+Stanton | Hurston | OOC_Stanton_1_Hurston | 0
+Stanton | ArcCorp | OOC_Stanton_3_ArcCorp | 0
+Stanton | Microtech | OOC_Stanton_4_Microtech | 0
+Stanton | Jump point to Magnus | OOC_JumpPoint_stanton_magnus | 0
+Stanton | Crusader | OOC_Stanton_2_Crusader | 0
+Stanton | Jump point to Pyro | OOC_JumpPoint_stanton_pyro | 0
+Stanton | Crusader L3 | OOC_Stanton2_L3 | 0
+Stanton | Jump point to Terra | OOC_JumpPoint_stanton_terra | 0
+Stanton | Hurston L1 | OOC_Stanton1_L1 | 0
+Stanton | Hurston L5 | OOC_Stanton1_L5 | 0
+Stanton | Crusader L4 | OOC_Stanton2_L4 | 0
+Stanton | Hurston L3 | OOC_Stanton1_L3 | 0
+Stanton | ArcCorp L5 | OOC_Stanton3_L5 | 0
+Stanton | Hurston L2 | OOC_Stanton1_L2 | 0
+Stanton | Crusader L2 | OOC_Stanton2_L2 | 0
+Stanton | Crusader L5 | OOC_Stanton2_L5 | 0
+Stanton | Microtech L2 | OOC_Stanton4_L2 | 0
+Stanton | Hurston L4 | OOC_Stanton1_L4 | 0
+Stanton | ArcCorp L2 | OOC_Stanton3_L2 | 0
+Stanton | ArcCorp L4 | OOC_Stanton3_L4 | 0
+Stanton | ArcCorp L1 | OOC_Stanton3_L1 | 0
+Stanton | ArcCorp L3 | OOC_Stanton3_L3 | 0
+Stanton | Microtech L1 | OOC_Stanton4_L1 | 0
+Stanton | Crusader L1 | OOC_Stanton2_L1 | 0
+Stanton | Microtech L5 | OOC_Stanton4_L5 | 0
+Stanton | Microtech L4 | OOC_Stanton4_L4 | 0
+Stanton | Microtech L3 | OOC_Stanton4_L3 | 0
+Stanton | rs ext cru-leo1 | rs_ext_cru-leo1 | 0
+Stanton | Yela | OOC_Stanton_2c_Yela | 0
+Stanton | ab mine stanton2 med 008 | ab_mine_stanton2_med_008 | 0
+Stanton | Daymar | OOC_Stanton_2b_Daymar | 0
+Stanton | Cellin | OOC_Stanton_2a_Cellin | 0
+Stanton | ab mine stanton2 med 009 | ab_mine_stanton2_med_009 | 0
+Stanton | ab mine stanton2 med 010 | ab_mine_stanton2_med_010 | 0
+Stanton | Wala | OOC_Stanton_3b_Wala | 0
+Stanton | ab mine stanton3 med 007 | ab_mine_stanton3_med_007 | 0
+Stanton | Lyria | OOC_Stanton_3a_Lyria | 0
+Stanton | ab mine stanton3 med 013 | ab_mine_stanton3_med_013 | 0
+Stanton | ab mine stanton3 med 012 | ab_mine_stanton3_med_012 | 0
+Stanton | ab mine stanton3 med 008 | ab_mine_stanton3_med_008 | 0
+Stanton | ab mine stanton3 sml 003 | ab_mine_stanton3_sml_003 | 0
+Stanton | ab mine stanton3 sml 005 | ab_mine_stanton3_sml_005 | 0
+Stanton | ab mine stanton3 sml 004 | ab_mine_stanton3_sml_004 | 0
+Stanton | ab mine stanton3 med 009 | ab_mine_stanton3_med_009 | 0
+Stanton | ab mine stanton3 med 011 | ab_mine_stanton3_med_011 | 0
+Stanton | ObjectContainer Commercial | ObjectContainer_Commercial | 0
+Stanton | ObjectContainer habs | ObjectContainer_habs | 0
+Stanton | ObjectContainer Entry | ObjectContainer_Entry | 0
+Stanton | ObjectContainer-000 | ObjectContainer-000 | 0
+Stanton | rs comm arc-l001 | rs_comm_arc-l001 | 0
+Stanton | rs entry arc-l001 | rs_entry_arc-l001 | 0
+Stanton | rs habs 003 occu 001 | rs_habs_003_occu_001 | 0
+Stanton | ObjectContainer Refinery | ObjectContainer_Refinery | 0
+Stanton | ObjectContainer-001 | ObjectContainer-001 | 0
+Stanton | rs habs 005 occu 001 | rs_habs_005_occu_001 | 0
+Stanton | rs refin occu 001 | rs_refin_occu_001 | 0
+Stanton | reststop cargo occu 0001 | reststop_cargo_occu_0001 | 0
+Stanton | rs entry stan-magnus jp1 | rs_entry_stan-magnus_jp1 | 0
+Stanton | rs habs 010 occu 001 | rs_habs_010_occu_001 | 0
+Stanton | rs comm stan-magnus jp1 | rs_comm_stan-magnus_jp1 | 0
+Stanton | rs comm mic-l5 | rs_comm_mic-l5 | 0
+Stanton | rs habs 002 occu 001 | rs_habs_002_occu_001 | 0
+Stanton | rs entry mic-l001 | rs_entry_mic-l001 | 0
+Stanton | ObjectContainer-habs | ObjectContainer-habs | 0
+Stanton | rs comm mic-l001 | rs_comm_mic-l001 | 0
+Stanton | rs entry mic-l3 | rs_entry_mic-l3 | 0
+Nyx | glaciemring segment mission genrl 002-028 | glaciemring_segment_mission_genrl_002-028 | 0
+Nyx | keeger segment mission genrl 001 001 | keeger_segment_mission_genrl_001_001 | 0
+Nyx | tsg gascloud 027 | tsg_gascloud_027 | 0
+Nyx | keeger segment mission genrl 002 011 | keeger_segment_mission_genrl_002_011 | 0
+Nyx | glaciemring segment mission genrl 002-021 | glaciemring_segment_mission_genrl_002-021 | 0
+Nyx | tsg gascloud 012 | tsg_gascloud_012 | 0
+Nyx | tsg gascloud 016 | tsg_gascloud_016 | 0
+Nyx | glaciemring segment mission genrl 002-017 | glaciemring_segment_mission_genrl_002-017 | 0
+Nyx | tsg gascloud 025 | tsg_gascloud_025 | 0
+Nyx | tsg gascloud 030 | tsg_gascloud_030 | 0
+Nyx | tsg gascloud 001 | tsg_gascloud_001 | 0
+Nyx | keeger segment outlaw 040 | keeger_segment_outlaw_040 | 0
+Nyx | glaciemring segment wtn-017 | glaciemring_segment_wtn-017 | 0
+Nyx | keeger segment rckcrk 068 | keeger_segment_rckcrk_068 | 0
+Nyx | social 002 keeger segment rckcrk 097 | social_002_keeger_segment_rckcrk_097 | 0
+Nyx | glaciemring segment wtn-013 | glaciemring_segment_wtn-013 | 0
+Nyx | tsg gascloud 037 | tsg_gascloud_037 | 0
+Nyx | keeger segment outlaw 029 | keeger_segment_outlaw_029 | 0
+Nyx | tsg gascloud 020 | tsg_gascloud_020 | 0
+Nyx | keeger segment outlaw 005 | keeger_segment_outlaw_005 | 0
+Nyx | tsg gascloud 009 | tsg_gascloud_009 | 0
+Nyx | tsg gascloud 015 | tsg_gascloud_015 | 0
+Nyx | glaciemring segment mission genrl 002-010 | glaciemring_segment_mission_genrl_002-010 | 0
+Nyx | tsg gascloud 011 | tsg_gascloud_011 | 0
+Nyx | tsg gascloud 040 | tsg_gascloud_040 | 0
+Nyx | Jump point to Pyro | jumppoint_nyx_pyro | 0
+Nyx | glaciemring segment mission genrl 001-029 | glaciemring_segment_mission_genrl_001-029 | 0
+Nyx | glaciemring segment wtn-010 | glaciemring_segment_wtn-010 | 0
+Nyx | tsg gascloud 022 | tsg_gascloud_022 | 0
+Nyx | tsg gascloud 021 | tsg_gascloud_021 | 0
+Nyx | tsg gascloud 006 | tsg_gascloud_006 | 0
+Nyx | tsg gascloud 033 | tsg_gascloud_033 | 0
+Nyx | keeger segment outlaw 008 | keeger_segment_outlaw_008 | 0
+Nyx | tsg gascloud 010 | tsg_gascloud_010 | 0
+Nyx | tsg gascloud 013 | tsg_gascloud_013 | 0
+Nyx | tsg gascloud 035 | tsg_gascloud_035 | 0
+Nyx | tsg gascloud 029 | tsg_gascloud_029 | 0
+Nyx | tsg gascloud 005 | tsg_gascloud_005 | 0
+Nyx | tsg gascloud 034 | tsg_gascloud_034 | 0
+Nyx | keeger segment rckcrk 021 | keeger_segment_rckcrk_021 | 0
+Nyx | tsg gascloud 026 | tsg_gascloud_026 | 0
+Nyx | keeger segment outlaw 025 | keeger_segment_outlaw_025 | 0
+Nyx | tsg gascloud 018 | tsg_gascloud_018 | 0
+Nyx | tsg gascloud 002 | tsg_gascloud_002 | 0
+Nyx | tsg gascloud 004 | tsg_gascloud_004 | 0
+Nyx | glaciemring segment wtn-001 | glaciemring_segment_wtn-001 | 0
+Nyx | glaciemring segment wtn-003 | glaciemring_segment_wtn-003 | 0
+Nyx | tsg gascloud 003 | tsg_gascloud_003 | 0
+Nyx | tsg gascloud 017 | tsg_gascloud_017 | 0
+Nyx | tsg gascloud 039 | tsg_gascloud_039 | 0
+Nyx | tsg gascloud 023 | tsg_gascloud_023 | 0
+Nyx | tsg gascloud 028 | tsg_gascloud_028 | 0
+Nyx | tsg gascloud 036 | tsg_gascloud_036 | 0
+Nyx | tsg gascloud 038 | tsg_gascloud_038 | 0
+Nyx | keeger segment outlaw 030 | keeger_segment_outlaw_030 | 0
+Nyx | tsg gascloud 031 | tsg_gascloud_031 | 0
+Nyx | glaciemring segment mission genrl 002-027 | glaciemring_segment_mission_genrl_002-027 | 0
+Nyx | glaciemring segment mission genrl 002-025 | glaciemring_segment_mission_genrl_002-025 | 0
+Nyx | tsg gascloud 014 | tsg_gascloud_014 | 0
+Nyx | tsg gascloud 008 | tsg_gascloud_008 | 0
+Nyx | tsg gascloud 007 | tsg_gascloud_007 | 0
+Nyx | tsg gascloud 019 | tsg_gascloud_019 | 0
+Nyx | glaciemring segment mission genrl 002-012 | glaciemring_segment_mission_genrl_002-012 | 0
+Nyx | tsg gascloud 032 | tsg_gascloud_032 | 0
+Nyx | tsg gascloud 024 | tsg_gascloud_024 | 0
+Nyx | glaciemring segment wtn-014 | glaciemring_segment_wtn-014 | 0
+Nyx | glaciemring segment mission genrl 002-022 | glaciemring_segment_mission_genrl_002-022 | 0
+Nyx | glaciemring segment mission genrl 002-011 | glaciemring_segment_mission_genrl_002-011 | 0
+Nyx | glaciemring segment mission genrl 002-024 | glaciemring_segment_mission_genrl_002-024 | 0
+Nyx | keeger segment rckcrk 030 | keeger_segment_rckcrk_030 | 0
+Nyx | glaciemring segment wtn-004 | glaciemring_segment_wtn-004 | 0
+Nyx | glaciemring segment wtn-018 | glaciemring_segment_wtn-018 | 0
+Nyx | glaciemring segment wtn-020 | glaciemring_segment_wtn-020 | 0
+Nyx | glaciemring segment wtn-012 | glaciemring_segment_wtn-012 | 0
+Nyx | keeger segment rckcrk 006 | keeger_segment_rckcrk_006 | 0
+Nyx | glaciemring segment wtn-015 | glaciemring_segment_wtn-015 | 0
+Nyx | glaciemring segment wtn-019 | glaciemring_segment_wtn-019 | 0
+Nyx | glaciemring segment mission genrl 001-028 | glaciemring_segment_mission_genrl_001-028 | 0
+Nyx | glaciemring segment wtn-005 | glaciemring_segment_wtn-005 | 0
+Nyx | glaciemring segment mission genrl 001-021 | glaciemring_segment_mission_genrl_001-021 | 0
+Nyx | glaciemring segment mission genrl 001-018 | glaciemring_segment_mission_genrl_001-018 | 0
+Nyx | keeger segment outlaw 016 | keeger_segment_outlaw_016 | 0
+Nyx | glaciemring segment wtn-008 | glaciemring_segment_wtn-008 | 0
+Nyx | glaciemring segment mission genrl 001-024 | glaciemring_segment_mission_genrl_001-024 | 0
+Nyx | glaciemring segment wtn-007 | glaciemring_segment_wtn-007 | 0
+Nyx | glaciemring segment wtn-016 | glaciemring_segment_wtn-016 | 0
+Nyx | keeger segment outlaw 043 | keeger_segment_outlaw_043 | 0
+Nyx | glaciemring segment mission genrl 001-004 | glaciemring_segment_mission_genrl_001-004 | 0
+Nyx | glaciemring segment wtn-006 | glaciemring_segment_wtn-006 | 0
+Nyx | glaciemring segment mission genrl 002-019 | glaciemring_segment_mission_genrl_002-019 | 0
+Nyx | glaciemring segment mission genrl 001-026 | glaciemring_segment_mission_genrl_001-026 | 0
+Nyx | glaciemring segment wtn-002 | glaciemring_segment_wtn-002 | 0
+Nyx | keeger segment mission genrl 002 008 | keeger_segment_mission_genrl_002_008 | 0
+Nyx | keeger segment rckcrk 065 | keeger_segment_rckcrk_065 | 0
+Nyx | glaciemring segment mission genrl 001-019 | glaciemring_segment_mission_genrl_001-019 | 0
+Nyx | glaciemring segment wtn-011 | glaciemring_segment_wtn-011 | 0
+Nyx | glaciemring segment mission genrl 001-005 | glaciemring_segment_mission_genrl_001-005 | 0
+Nyx | keeger segment rckcrk 020 | keeger_segment_rckcrk_020 | 0
+Nyx | keeger segment mission genrl 001 009 | keeger_segment_mission_genrl_001_009 | 0
+Nyx | keeger segment mission genrl 002 012 | keeger_segment_mission_genrl_002_012 | 0
+Nyx | glaciemring segment mission genrl 001-023 | glaciemring_segment_mission_genrl_001-023 | 0
+Nyx | glaciemring segment wtn-009 | glaciemring_segment_wtn-009 | 0
+Nyx | keeger segment outlaw 042 | keeger_segment_outlaw_042 | 0
+Nyx | glaciemring segment mission genrl 001-030 | glaciemring_segment_mission_genrl_001-030 | 0
+Nyx | glaciemring segment mission genrl 001-027 | glaciemring_segment_mission_genrl_001-027 | 0
+Nyx | keeger segment outlaw 035 | keeger_segment_outlaw_035 | 0
+Nyx | glaciemring segment mission genrl 001-025 | glaciemring_segment_mission_genrl_001-025 | 0
+Nyx | keeger segment rckcrk 019 | keeger_segment_rckcrk_019 | 0
+Nyx | keeger segment rckcrk 032 | keeger_segment_rckcrk_032 | 0
+Nyx | keeger segment outlaw 010 | keeger_segment_outlaw_010 | 0
+Nyx | glaciemring segment mission genrl 001-010 | glaciemring_segment_mission_genrl_001-010 | 0
+Nyx | keeger segment outlaw 032 | keeger_segment_outlaw_032 | 0
+Nyx | glaciemring segment mission genrl 001-020 | glaciemring_segment_mission_genrl_001-020 | 0
+Nyx | Jump point to Castra | jumppoint_nyx_castra | 0
+Nyx | keeger segment outlaw 020 | keeger_segment_outlaw_020 | 0
+Nyx | keeger segment outlaw 001 | keeger_segment_outlaw_001 | 0
+Nyx | glaciemring segment mission genrl 002-023 | glaciemring_segment_mission_genrl_002-023 | 0
+Nyx | glaciemring segment mission genrl 002-016 | glaciemring_segment_mission_genrl_002-016 | 0
+Nyx | keeger segment rckcrk 066 | keeger_segment_rckcrk_066 | 0
+Nyx | glaciemring segment mission genrl 002-020 | glaciemring_segment_mission_genrl_002-020 | 0
+Nyx | glaciemring segment mission genrl 002-007 | glaciemring_segment_mission_genrl_002-007 | 0
+Nyx | keeger segment rckcrk 070 | keeger_segment_rckcrk_070 | 0
+Nyx | keeger segment outlaw 009 | keeger_segment_outlaw_009 | 0
+Nyx | keeger segment rckcrk 024 | keeger_segment_rckcrk_024 | 0
+Nyx | keeger segment outlaw 019 | keeger_segment_outlaw_019 | 0
+Nyx | keeger segment outlaw 007 | keeger_segment_outlaw_007 | 0
+Nyx | social 002 keeger segment rckcrk 094 | social_002_keeger_segment_rckcrk_094 | 0
+Nyx | social 001 keeger segment rckcrk 112 | social_001_keeger_segment_rckcrk_112 | 0
+Nyx | keeger segment outlaw 004 | keeger_segment_outlaw_004 | 0
+Nyx | keeger segment mission genrl 002 014 | keeger_segment_mission_genrl_002_014 | 0
+Nyx | social 001 keeger segment rckcrk 102 | social_001_keeger_segment_rckcrk_102 | 0
+Nyx | keeger segment outlaw 041 | keeger_segment_outlaw_041 | 0
+Nyx | keeger segment outlaw 013 | keeger_segment_outlaw_013 | 0
+Nyx | keeger segment mission genrl 002 015 | keeger_segment_mission_genrl_002_015 | 0
+Nyx | keeger segment outlaw 002 | keeger_segment_outlaw_002 | 0
+Nyx | keeger segment mission genrl 002 001 | keeger_segment_mission_genrl_002_001 | 0
+Nyx | keeger segment outlaw 033 | keeger_segment_outlaw_033 | 0
+Nyx | keeger segment outlaw 011 | keeger_segment_outlaw_011 | 0
+Nyx | keeger segment mission genrl 001 008 | keeger_segment_mission_genrl_001_008 | 0
+Nyx | keeger segment mission genrl 001 015 | keeger_segment_mission_genrl_001_015 | 0
+Nyx | keeger segment outlaw 028 | keeger_segment_outlaw_028 | 0
+Nyx | keeger segment outlaw 017 | keeger_segment_outlaw_017 | 0
+Nyx | keeger segment mission genrl 001 010 | keeger_segment_mission_genrl_001_010 | 0
+Nyx | keeger segment outlaw 031 | keeger_segment_outlaw_031 | 0
+Nyx | keeger segment outlaw 022 | keeger_segment_outlaw_022 | 0
+Nyx | keeger segment rckcrk 017 | keeger_segment_rckcrk_017 | 0
+Nyx | keeger segment outlaw 037 | keeger_segment_outlaw_037 | 0
+Nyx | keeger segment rckcrk 026 | keeger_segment_rckcrk_026 | 0
+Nyx | keeger segment outlaw 044 | keeger_segment_outlaw_044 | 0
+Nyx | keeger segment outlaw 024 | keeger_segment_outlaw_024 | 0
+Nyx | keeger segment outlaw 036 | keeger_segment_outlaw_036 | 0
+Nyx | keeger segment outlaw 039 | keeger_segment_outlaw_039 | 0
+Nyx | social 002 keeger segment rckcrk 098 | social_002_keeger_segment_rckcrk_098 | 0
+Nyx | keeger segment rckcrk 071 | keeger_segment_rckcrk_071 | 0
+Nyx | keeger segment rckcrk 073 | keeger_segment_rckcrk_073 | 0
+Nyx | keeger segment mission genrl 001 012 | keeger_segment_mission_genrl_001_012 | 0
+Nyx | keeger segment rckcrk 067 | keeger_segment_rckcrk_067 | 0
+Nyx | keeger segment rckcrk 025 | keeger_segment_rckcrk_025 | 0
+Nyx | keeger segment rckcrk 072 | keeger_segment_rckcrk_072 | 0
+Nyx | keeger segment rckcrk 069 | keeger_segment_rckcrk_069 | 0
+Nyx | keeger segment rckcrk 064 | keeger_segment_rckcrk_064 | 0
+Nyx | keeger segment rckcrk 015 | keeger_segment_rckcrk_015 | 0
+Nyx | keeger segment rckcrk 013 | keeger_segment_rckcrk_013 | 0
+Nyx | keeger segment rckcrk 007 | keeger_segment_rckcrk_007 | 0
+Nyx | keeger segment rckcrk 012 | keeger_segment_rckcrk_012 | 0
+Nyx | keeger segment rckcrk 029 | keeger_segment_rckcrk_029 | 0
+Nyx | keeger segment rckcrk 014 | keeger_segment_rckcrk_014 | 0
+Nyx | keeger segment rckcrk 018 | keeger_segment_rckcrk_018 | 0
+Nyx | keeger segment rckcrk 022 | keeger_segment_rckcrk_022 | 0
+Nyx | keeger segment rckcrk 011 | keeger_segment_rckcrk_011 | 0
+Nyx | keeger segment rckcrk 016 | keeger_segment_rckcrk_016 | 0
+Nyx | keeger segment rckcrk 023 | keeger_segment_rckcrk_023 | 0
+Nyx | keeger segment rckcrk 010 | keeger_segment_rckcrk_010 | 0
+Nyx | keeger segment rckcrk 004 | keeger_segment_rckcrk_004 | 0
+Nyx | keeger segment outlaw 045 | keeger_segment_outlaw_045 | 0
+Nyx | keeger segment rckcrk 028 | keeger_segment_rckcrk_028 | 0
+Nyx | keeger segment outlaw 014 | keeger_segment_outlaw_014 | 0
+Nyx | keeger segment rckcrk 008 | keeger_segment_rckcrk_008 | 0
+Nyx | keeger segment rckcrk 027 | keeger_segment_rckcrk_027 | 0
+Nyx | keeger segment outlaw 038 | keeger_segment_outlaw_038 | 0
+Nyx | keeger segment outlaw 012 | keeger_segment_outlaw_012 | 0
+Nyx | keeger segment rckcrk 005 | keeger_segment_rckcrk_005 | 0
+Nyx | keeger segment outlaw 018 | keeger_segment_outlaw_018 | 0
+Nyx | keeger segment outlaw 003 | keeger_segment_outlaw_003 | 0
+Nyx | keeger segment rckcrk 031 | keeger_segment_rckcrk_031 | 0
+Nyx | keeger segment rckcrk 033 | keeger_segment_rckcrk_033 | 0
+Nyx | keeger segment outlaw 023 | keeger_segment_outlaw_023 | 0
+Nyx | keeger segment rckcrk 009 | keeger_segment_rckcrk_009 | 0
+Nyx | keeger segment outlaw 006 | keeger_segment_outlaw_006 | 0
+Nyx | keeger segment outlaw 021 | keeger_segment_outlaw_021 | 0
+Nyx | social 001 keeger segment rckcrk 105 | social_001_keeger_segment_rckcrk_105 | 0
+Nyx | keeger segment outlaw 015 | keeger_segment_outlaw_015 | 0
+Nyx | keeger segment outlaw 026 | keeger_segment_outlaw_026 | 0
+Nyx | keeger segment mission genrl 002 009 | keeger_segment_mission_genrl_002_009 | 0
+Nyx | keeger segment outlaw 027 | keeger_segment_outlaw_027 | 0
+Nyx | keeger segment outlaw 034 | keeger_segment_outlaw_034 | 0
+Nyx | keeger segment mission genrl 001 011 | keeger_segment_mission_genrl_001_011 | 0
+Nyx | social 001 keeger segment rckcrk 101 | social_001_keeger_segment_rckcrk_101 | 0
+Nyx | social 002 keeger segment rckcrk 096 | social_002_keeger_segment_rckcrk_096 | 0
+Nyx | keeger segment mission genrl 001 004 | keeger_segment_mission_genrl_001_004 | 0
+Nyx | social 001 keeger segment rckcrk 095 | social_001_keeger_segment_rckcrk_095 | 0
+Nyx | keeger segment mission genrl 001 005 | keeger_segment_mission_genrl_001_005 | 0
+Nyx | social 002 keeger segment rckcrk 099 | social_002_keeger_segment_rckcrk_099 | 0
+Nyx | keeger segment mission genrl 001 006 | keeger_segment_mission_genrl_001_006 | 0
+Nyx | keeger segment mission genrl 001 003 | keeger_segment_mission_genrl_001_003 | 0
+Nyx | keeger segment mission genrl 001 007 | keeger_segment_mission_genrl_001_007 | 0
+Nyx | keeger segment mission genrl 001 014 | keeger_segment_mission_genrl_001_014 | 0
+Nyx | keeger segment mission genrl 001 013 | keeger_segment_mission_genrl_001_013 | 0
+Nyx | keeger segment mission genrl 001 002 | keeger_segment_mission_genrl_001_002 | 0
+Nyx | keeger segment mission genrl 002 010 | keeger_segment_mission_genrl_002_010 | 0
+Nyx | keeger segment mission genrl 002 002 | keeger_segment_mission_genrl_002_002 | 0
+Nyx | keeger segment mission genrl 002 005 | keeger_segment_mission_genrl_002_005 | 0
+Nyx | keeger segment mission genrl 002 007 | keeger_segment_mission_genrl_002_007 | 0
+Nyx | keeger segment mission genrl 002 006 | keeger_segment_mission_genrl_002_006 | 0
+Nyx | keeger segment mission genrl 002 013 | keeger_segment_mission_genrl_002_013 | 0
+Nyx | keeger segment mission genrl 002 004 | keeger_segment_mission_genrl_002_004 | 0
+Nyx | keeger segment mission genrl 002 003 | keeger_segment_mission_genrl_002_003 | 0
+Nyx | keeger segment social 001 | keeger_segment_social_001 | 0
+Nyx | keeger segment social 002 | keeger_segment_social_002 | 0
+Stanton | LocationObjectContainer | LocationObjectContainer | 0
+Stanton | entrance int lrg lobby b base-012 | entrance_int_lrg_lobby_b_base-012 | 0
+Stanton | entrance int lrg lobby b base-004 | entrance_int_lrg_lobby_b_base-004 | 0
+Stanton | entrance int lrg lobby a base-002 | entrance_int_lrg_lobby_a_base-002 | 0
+Stanton | entrance int lrg lobby a base-001 | entrance_int_lrg_lobby_a_base-001 | 0
+Stanton | ObjectContainer-097 | ObjectContainer-097 | 0
+Stanton | ObjectContainer-164 | ObjectContainer-164 | 0
+Stanton | ObjectContainer-495 | ObjectContainer-495 | 0
+Stanton | ObjectContainer-342 | ObjectContainer-342 | 0
+Stanton | ObjectContainer-096 | ObjectContainer-096 | 0
+Stanton | ObjectContainer-095 | ObjectContainer-095 | 0
+Stanton | ObjectContainer-486 | ObjectContainer-486 | 0
+Stanton | ObjectContainer-490 | ObjectContainer-490 | 0
+Stanton | ObjectContainer-491 | ObjectContainer-491 | 0
+Stanton | entrance int lrg lobby a base-013 | entrance_int_lrg_lobby_a_base-013 | 0
+Stanton | ObjectContainer-035 | ObjectContainer-035 | 0
+Pyro | ab mine pyro regionb sml 003 | ab_mine_pyro_regionb_sml_003 | 0
+Pyro | Pyro 5 | pyro5 | 0
+Pyro | Pyro 3 L2 | P3_L2 | 0
+Pyro | Pyro 5 L2 | P5_L2 | 0
+Pyro | Pyro 3 L4 | P3_L4 | 0
+Pyro | Pyro 3 L1 | P3_L1 | 0
+Pyro | Pyro 2 L1 | P2_L1 | 0
+Pyro | Pyro 3 L5 | P3_L5 | 0
+Pyro | Pyro 3 L3 | P3_L3 | 0
+Pyro | Pyro 6 L2 | P6_L2 | 0
+Pyro | ab mine pyro regiond med 017 | ab_mine_pyro_regiond_med_017 | 0
+Pyro | Pyro 6 L5 | P6_L5 | 0
+Pyro | Pyro 6 L3 | P6_L3 | 0
+Pyro | ab mine pyro regionb med 004 | ab_mine_pyro_regionb_med_004 | 0
+Pyro | ab mine pyro regionb med 001 | ab_mine_pyro_regionb_med_001 | 0
+Pyro | ab mine pyro regionc med 014 | ab_mine_pyro_regionc_med_014 | 0
+Pyro | Pyro 2 L5 | P2_L5 | 0
+Pyro | ab mine pyro regionc med 001 | ab_mine_pyro_regionc_med_001 | 0
+Pyro | ab mine pyro regiona med 006 | ab_mine_pyro_regiona_med_006 | 0
+Pyro | ab mine pyro regionc med 002 | ab_mine_pyro_regionc_med_002 | 0
+Pyro | ab mine pyro regionb med 016 | ab_mine_pyro_regionb_med_016 | 0
+Pyro | ab mine pyro regionc med 018 | ab_mine_pyro_regionc_med_018 | 0
+Pyro | ab mine pyro regionb med 015 | ab_mine_pyro_regionb_med_015 | 0
+Pyro | ab mine pyro regiond med 001 | ab_mine_pyro_regiond_med_001 | 0
+Pyro | ab mine pyro regionb sml 001 | ab_mine_pyro_regionb_sml_001 | 0
+Pyro | ab mine pyro regiond med 015 | ab_mine_pyro_regiond_med_015 | 0
+Pyro | ab mine pyro regionb med 011 | ab_mine_pyro_regionb_med_011 | 0
+Pyro | ab mine pyro regiona sml 004 | ab_mine_pyro_regiona_sml_004 | 0
+Pyro | ab mine pyro regiona sml 002 | ab_mine_pyro_regiona_sml_002 | 0
+Pyro | ab mine pyro regiona med 009 | ab_mine_pyro_regiona_med_009 | 0
+Pyro | Pyro 1 | pyro1 | 0
+Pyro | Pyro 1 L2 | P1_L2 | 0
+Pyro | Pyro 1 L4 | P1_L4 | 0
+Pyro | Pyro 1 L5 | P1_L5 | 0
+Pyro | Pyro 1 L1 | P1_L1 | 0
+Pyro | ab mine pyro regiond sml 001 | ab_mine_pyro_regiond_sml_001 | 0
+Pyro | ab mine pyro regiona med 014 | ab_mine_pyro_regiona_med_014 | 0
+Pyro | ab mine pyro regiona med 012 | ab_mine_pyro_regiona_med_012 | 0
+Pyro | ab mine pyro regiond med 003 | ab_mine_pyro_regiond_med_003 | 0
+Pyro | ab mine pyro regionb med 017 | ab_mine_pyro_regionb_med_017 | 0
+Pyro | ab mine pyro regionb med 010 | ab_mine_pyro_regionb_med_010 | 0
+Pyro | ab mine pyro regionb med 012 | ab_mine_pyro_regionb_med_012 | 0
+Pyro | ab mine pyro regionb med 009 | ab_mine_pyro_regionb_med_009 | 0
+Pyro | ab mine pyro regiona med 011 | ab_mine_pyro_regiona_med_011 | 0
+Pyro | ab mine pyro regionc med 008 | ab_mine_pyro_regionc_med_008 | 0
+Pyro | ab mine pyro regiona med 004 | ab_mine_pyro_regiona_med_004 | 0
+Pyro | ab mine pyro regionb med 008 | ab_mine_pyro_regionb_med_008 | 0
+Pyro | ab mine pyro regionc med 016 | ab_mine_pyro_regionc_med_016 | 0
+Pyro | ab mine pyro regionb med 006 | ab_mine_pyro_regionb_med_006 | 0
+Pyro | ab mine pyro regionb med 014 | ab_mine_pyro_regionb_med_014 | 0
+Pyro | ab mine pyro regiona med 018 | ab_mine_pyro_regiona_med_018 | 0
+Pyro | ab mine pyro regionc sml 003 | ab_mine_pyro_regionc_sml_003 | 0
+Pyro | ab mine pyro regionc med 006 | ab_mine_pyro_regionc_med_006 | 0
+Pyro | ab mine pyro regiona med 008 | ab_mine_pyro_regiona_med_008 | 0
+Pyro | ab mine pyro regionc med 011 | ab_mine_pyro_regionc_med_011 | 0
+Pyro | ab mine pyro regionc med 013 | ab_mine_pyro_regionc_med_013 | 0
+Pyro | ab mine pyro regiond med 005 | ab_mine_pyro_regiond_med_005 | 0
+Pyro | ab mine pyro regionc med 010 | ab_mine_pyro_regionc_med_010 | 0
+Pyro | ab mine pyro regionc med 003 | ab_mine_pyro_regionc_med_003 | 0
+Pyro | Pyro 5 L4 | P5_L4 | 0
+Pyro | Pyro 6 L1 | P6_L1 | 0
+Pyro | Pyro 1 L3 | P1_L3 | 0
+Pyro | Pyro 6 | pyro6 | 0
+Pyro | ab mine pyro regionb sml 004 | ab_mine_pyro_regionb_sml_004 | 0
+Pyro | Pyro 6 L4 | P6_L4 | 0
+Pyro | Pyro 2 L2 | P2_L2 | 0
+Pyro | ab mine pyro regiond med 009 | ab_mine_pyro_regiond_med_009 | 0
+Pyro | ab mine pyro regiona med 019 | ab_mine_pyro_regiona_med_019 | 0
+Pyro | ab mine pyro regionc med 012 | ab_mine_pyro_regionc_med_012 | 0
+Pyro | Pyro 2 | pyro2 | 0
+Pyro | ab mine pyro regiond med 002 | ab_mine_pyro_regiond_med_002 | 0
+Pyro | ab mine pyro regionc med 015 | ab_mine_pyro_regionc_med_015 | 0
+Pyro | ab mine pyro regiond sml 003 | ab_mine_pyro_regiond_sml_003 | 0
+Pyro | ab mine pyro regiona med 001 | ab_mine_pyro_regiona_med_001 | 0
+Pyro | ab mine pyro regiona sml 003 | ab_mine_pyro_regiona_sml_003 | 0
+Pyro | ab mine pyro regionc med 017 | ab_mine_pyro_regionc_med_017 | 0
+Pyro | ab mine pyro regionb med 003 | ab_mine_pyro_regionb_med_003 | 0
+Pyro | ab mine pyro regiona med 010 | ab_mine_pyro_regiona_med_010 | 0
+Pyro | ab mine pyro regionb med 002 | ab_mine_pyro_regionb_med_002 | 0
+Pyro | Pyro 2 L4 | P2_L4 | 0
+Pyro | Pyro 3 | pyro3 | 0
+Pyro | ab mine pyro regiona med 016 | ab_mine_pyro_regiona_med_016 | 0
+Pyro | ab mine pyro regionc med 009 | ab_mine_pyro_regionc_med_009 | 0
+Pyro | ab mine pyro regiona med 005 | ab_mine_pyro_regiona_med_005 | 0
+Pyro | ab mine pyro regiond med 011 | ab_mine_pyro_regiond_med_011 | 0
+Pyro | ab mine pyro regionc med 007 | ab_mine_pyro_regionc_med_007 | 0
+Pyro | ab mine pyro regiond med 006 | ab_mine_pyro_regiond_med_006 | 0
+Pyro | ab mine pyro regiond med 007 | ab_mine_pyro_regiond_med_007 | 0
+Pyro | ab mine pyro regiond med 013 | ab_mine_pyro_regiond_med_013 | 0
+Pyro | ab mine pyro regionb sml 002 | ab_mine_pyro_regionb_sml_002 | 0
+Pyro | ab mine pyro regiond med 004 | ab_mine_pyro_regiond_med_004 | 0
+Pyro | ab mine pyro regiona med 017 | ab_mine_pyro_regiona_med_017 | 0
+Pyro | ab mine pyro regiond med 008 | ab_mine_pyro_regiond_med_008 | 0
+Pyro | ab mine pyro regiona med 015 | ab_mine_pyro_regiona_med_015 | 0
+Pyro | ab mine pyro regiond med 016 | ab_mine_pyro_regiond_med_016 | 0
+Pyro | ab mine pyro regiond med 012 | ab_mine_pyro_regiond_med_012 | 0
+Pyro | ab mine pyro regiond med 018 | ab_mine_pyro_regiond_med_018 | 0
+Pyro | ab mine pyro regionc med 004 | ab_mine_pyro_regionc_med_004 | 0
+Pyro | ab mine pyro regiond med 010 | ab_mine_pyro_regiond_med_010 | 0
+Pyro | ab mine pyro regionc sml 001 | ab_mine_pyro_regionc_sml_001 | 0
+Pyro | ab mine pyro regiona med 007 | ab_mine_pyro_regiona_med_007 | 0
+Pyro | ab mine pyro regionb med 007 | ab_mine_pyro_regionb_med_007 | 0
+Pyro | ab mine pyro regionc med 005 | ab_mine_pyro_regionc_med_005 | 0
+Pyro | Pyro 5 L5 | P5_L5 | 0
+Pyro | ab mine pyro regiona med 002 | ab_mine_pyro_regiona_med_002 | 0
+Pyro | ab mine pyro regionb med 013 | ab_mine_pyro_regionb_med_013 | 0
+Pyro | ab mine pyro regiond sml 002 | ab_mine_pyro_regiond_sml_002 | 0
+Pyro | ab mine pyro regiond med 014 | ab_mine_pyro_regiond_med_014 | 0
+Pyro | ab mine pyro regionb med 005 | ab_mine_pyro_regionb_med_005 | 0
+Pyro | ab mine pyro regiona med 013 | ab_mine_pyro_regiona_med_013 | 0
+Pyro | ab mine pyro regionc sml 002 | ab_mine_pyro_regionc_sml_002 | 0
+Pyro | Pyro 5 L1 | P5_L1 | 0
+Pyro | ab mine pyro regiona sml 001 | ab_mine_pyro_regiona_sml_001 | 0
+Pyro | ab mine pyro regiona med 003 | ab_mine_pyro_regiona_med_003 | 0
+Pyro | Jump point to Nyx | jumppoint_pyro_nyx | 0
+Pyro | Jump point to Stanton | jumppoint_pyro_stanton | 0
+Pyro | Pyro 5 L3 | P5_L3 | 0
+Stanton | ab mine stanton1 med 007 | ab_mine_stanton1_med_007 | 0
+Stanton | Ariel | OOC_Stanton_1a_Ariel | 0
+Stanton | Aberdeen | OOC_Stanton_1b_Aberdeen | 0
+Stanton | Ita | OOC_Stanton_1d_Ita | 0
+Stanton | Magda | OOC_Stanton_1c_Magda | 0
+Stanton | ab mine stanton1 sml 001 | ab_mine_stanton1_sml_001 | 0
+Stanton | ab mine stanton1 med 003 | ab_mine_stanton1_med_003 | 0
+Stanton | ab mine stanton1 med 009 | ab_mine_stanton1_med_009 | 0
+Stanton | rs comm stan-pyro jp1 | rs_comm_stan-pyro_jp1 | 0
+Stanton | rs entry stan-pyro jp1 | rs_entry_stan-pyro_jp1 | 0
+Stanton | npc hangar lrgfrnt 002 | npc_hangar_lrgfrnt_002 | 0
+Stanton | npc hangar lrgfrnt 001 | npc_hangar_lrgfrnt_001 | 0
+Stanton | Calliope | OOC_Stanton_4a_Calliope | 0
+Stanton | ab mine stanton4 sml 004 | ab_mine_stanton4_sml_004 | 0
+Stanton | Euterpe | OOC_Stanton_4c_Euterpe | 0
+Stanton | ab mine stanton4 med 014 | ab_mine_stanton4_med_014 | 0
+Stanton | Clio | OOC_Stanton_4b_Clio | 0
+Stanton | ab mine stanton4 med 013 | ab_mine_stanton4_med_013 | 0
+Stanton | ab mine stanton4 med 012 | ab_mine_stanton4_med_012 | 0
+Stanton | ab mine stanton4 sml 006 | ab_mine_stanton4_sml_006 | 0
+Stanton | ObjectContainer Cargo | ObjectContainer_Cargo | 0
+Stanton | ab mine stanton2 med 002 | ab_mine_stanton2_med_002 | 0
+Stanton | ab mine stanton2 med 001 | ab_mine_stanton2_med_001 | 0
+Stanton | ab mine stanton2 med 003 | ab_mine_stanton2_med_003 | 0
+Stanton | Area18 central-001 | Area18_central-001 | 0
+Stanton | orbtl 002 plat 001 util a orbital 001 occu a final | orbtl_002_plat_001_util_a_orbital_001_occu_a_final | 0
+Stanton | util a orbital 001 occu a final-001 | util_a_orbital_001_occu_a_final-001 | 0
+Stanton | ab mine stanton2 med 004 | ab_mine_stanton2_med_004 | 0
+Stanton | ab mine stanton2 med 005 | ab_mine_stanton2_med_005 | 0
+Stanton | ab mine stanton2 sml 002 | ab_mine_stanton2_sml_002 | 0
+Stanton | ab mine stanton2 med 006 | ab_mine_stanton2_med_006 | 0
+Stanton | ab mine stanton2 med 007 | ab_mine_stanton2_med_007 | 0
+Stanton | oc a18 sp int | oc_a18_sp_int | 0
+Stanton | rs entry stan-terra jp1 | rs_entry_stan-terra_jp1 | 0
+Stanton | rs comm stan-terra jp1 | rs_comm_stan-terra_jp1 | 0
+Stanton | ab mine stanton3 sml 001 | ab_mine_stanton3_sml_001 | 0
+Stanton | ab mine stanton3 med 002 | ab_mine_stanton3_med_002 | 0
+Stanton | ab mine stanton3 med 001 | ab_mine_stanton3_med_001 | 0
+Stanton | ab mine stanton3 med 006 | ab_mine_stanton3_med_006 | 0
+Stanton | ab mine stanton3 med 005 | ab_mine_stanton3_med_005 | 0
+Stanton | ab mine stanton3 sml 002 | ab_mine_stanton3_sml_002 | 0
+Stanton | ObjectContainer-Refinery | ObjectContainer-Refinery | 0
+Nyx | levski all-001 | levski_all-001 | 0
+Stanton | entrance int lrg lobby b base-017 | entrance_int_lrg_lobby_b_base-017 | 0
+Stanton | ObjectContainer-514 | ObjectContainer-514 | 0
+Stanton | entrance int lrg lobby a base-011 | entrance_int_lrg_lobby_a_base-011 | 0
+Stanton | entrance int lrg lobby b base-007 | entrance_int_lrg_lobby_b_base-007 | 0
+Stanton | entrance int lrg lobby b base-009 | entrance_int_lrg_lobby_b_base-009 | 0
+Stanton | entrance int lrg lobby a base-004 | entrance_int_lrg_lobby_a_base-004 | 0
+Stanton | entrance int lrg lobby b base-010 | entrance_int_lrg_lobby_b_base-010 | 0
+Stanton | entrance int lrg lobby b base-001 | entrance_int_lrg_lobby_b_base-001 | 0
+Stanton | ObjectContainer-069 | ObjectContainer-069 | 0
+Stanton | entrance int lrg lobby a base-009 | entrance_int_lrg_lobby_a_base-009 | 0
+Stanton | ObjectContainer-131 | ObjectContainer-131 | 0
+Stanton | entrance int lrg lobby a base-010 | entrance_int_lrg_lobby_a_base-010 | 0
+Stanton | entrance int lrg lobby b base | entrance_int_lrg_lobby_b_base | 0
+Stanton | ObjectContainer-055 | ObjectContainer-055 | 0
+Stanton | ObjectContainer-042 | ObjectContainer-042 | 0
+Stanton | entrance int lrg lobby a base-003 | entrance_int_lrg_lobby_a_base-003 | 0
+Stanton | entrance int lrg lobby b base-005 | entrance_int_lrg_lobby_b_base-005 | 0
+Stanton | ObjectContainer-089 | ObjectContainer-089 | 0
+Stanton | ObjectContainer-088 | ObjectContainer-088 | 0
+Stanton | ObjectContainer-090 | ObjectContainer-090 | 0
+Stanton | entrance int lrg lobby b base-014 | entrance_int_lrg_lobby_b_base-014 | 0
+Stanton | entrance int lrg lobby b base-013 | entrance_int_lrg_lobby_b_base-013 | 0
+Stanton | entrance int lrg lobby a base-012 | entrance_int_lrg_lobby_a_base-012 | 0
+Stanton | entrance int lrg lobby b base-019 | entrance_int_lrg_lobby_b_base-019 | 0
+Stanton | entrance int lrg lobby b base-011 | entrance_int_lrg_lobby_b_base-011 | 0
+Stanton | ObjectContainer-513 | ObjectContainer-513 | 0
+Stanton | ObjectContainer-516 | ObjectContainer-516 | 0
+Stanton | entrance int lrg lobby b base-003 | entrance_int_lrg_lobby_b_base-003 | 0
+Stanton | entrance int lrg lobby a base-014 | entrance_int_lrg_lobby_a_base-014 | 0
+Stanton | entrance int lrg lobby a base-007 | entrance_int_lrg_lobby_a_base-007 | 0
+Stanton | ObjectContainer-037 | ObjectContainer-037 | 0
+Stanton | entrance int lrg lobby b base-015 | entrance_int_lrg_lobby_b_base-015 | 0
+Stanton | ObjectContainer-522 | ObjectContainer-522 | 0
+Stanton | ObjectContainer-503 | ObjectContainer-503 | 0
+Stanton | ObjectContainer-523 | ObjectContainer-523 | 0
+Stanton | ObjectContainer-525 | ObjectContainer-525 | 0
+Stanton | entrance int lrg lobby b base-016 | entrance_int_lrg_lobby_b_base-016 | 0
+Stanton | ObjectContainer-507 | ObjectContainer-507 | 0
+Stanton | entrance int lrg lobby a base-008 | entrance_int_lrg_lobby_a_base-008 | 0
+Stanton | entrance int lrg lobby b base-020 | entrance_int_lrg_lobby_b_base-020 | 0
+Stanton | entrance int lrg lobby b base-002 | entrance_int_lrg_lobby_b_base-002 | 0
+Stanton | ObjectContainer-527 | ObjectContainer-527 | 0
+Stanton | ObjectContainer-528 | ObjectContainer-528 | 0
+Stanton | ObjectContainer-546 | ObjectContainer-546 | 0
+Stanton | ObjectContainer-533 | ObjectContainer-533 | 0
+Stanton | ObjectContainer-002 | ObjectContainer-002 | 0
+Stanton | entrance int lrg lobby a base-015 | entrance_int_lrg_lobby_a_base-015 | 0
+Stanton | entrance int lrg lobby b base-018 | entrance_int_lrg_lobby_b_base-018 | 0
+Stanton | ObjectContainer-536 | ObjectContainer-536 | 0
+Stanton | ObjectContainer-540 | ObjectContainer-540 | 0
+Stanton | ObjectContainer-564 | ObjectContainer-564 | 0
+Stanton | ObjectContainer-565 | ObjectContainer-565 | 0
+Stanton | ObjectContainer-570 | ObjectContainer-570 | 0
+Stanton | ObjectContainer-497 | ObjectContainer-497 | 0
+Stanton | entrance int lrg lobby a base-006 | entrance_int_lrg_lobby_a_base-006 | 0
+Stanton | ObjectContainer-493 | ObjectContainer-493 | 0
+Stanton | ObjectContainer-534 | ObjectContainer-534 | 0
+Stanton | ObjectContainer-484 | ObjectContainer-484 | 0
+Stanton | ObjectContainer-538 | ObjectContainer-538 | 0
+Stanton | ObjectContainer-543 | ObjectContainer-543 | 0
+Stanton | ObjectContainerModifier-003 | ObjectContainerModifier-003 | 0
+Stanton | ObjectContainer-139 | ObjectContainer-139 | 0
+Stanton | ObjectContainer-038 | ObjectContainer-038 | 0
+Stanton | ObjectContainer-515 | ObjectContainer-515 | 0
+Stanton | ObjectContainer-517 | ObjectContainer-517 | 0
+Stanton | ObjectContainer-520 | ObjectContainer-520 | 0
+Stanton | ObjectContainer-524 | ObjectContainer-524 | 0
+Stanton | orison lobby | orison_lobby | 0
+Stanton | incredifun a center main master | incredifun_a_center_main_master | 0
+Stanton | Spaceport interior | Spaceport_interior | 0
+Stanton | Spaceport transit | Spaceport_transit | 0
+Stanton | ObjectContainer-461 | ObjectContainer-461 | 0
+Stanton | entrance int lrg office b base-065 | entrance_int_lrg_office_b_base-065 | 0
+Stanton | ObjectContainer-225 | ObjectContainer-225 | 0
+Stanton | entrance int lrg reception a base-162 | entrance_int_lrg_reception_a_base-162 | 0
+Stanton | entrance interior lrg gym a base-003 | entrance_interior_lrg_gym_a_base-003 | 0
+Stanton | entrance int lrg reception b base-011 | entrance_int_lrg_reception_b_base-011 | 0
+Stanton | orison elev lobby b single elev base-019 | orison_elev_lobby_b_single_elev_base-019 | 0
+Stanton | entrance int lrg office b base-008 | entrance_int_lrg_office_b_base-008 | 0
+Stanton | entrance int lrg reception b base-014 | entrance_int_lrg_reception_b_base-014 | 0
+Pyro | Pyro 5c | pyro5c | 0
+Pyro | Pyro 5a | pyro5a | 0
+Pyro | Pyro 4 | pyro4 | 0
+Pyro | Pyro 5b | pyro5b | 0
+Pyro | Pyro 5f | pyro5f | 0
+Pyro | Pyro 5d | pyro5d | 0
+Pyro | Pyro 5e | pyro5e | 0
+Pyro | LocationHarvestableObjectContainer ab pyro int enctr 001b | LocationHarvestableObjectContainer_ab_pyro_int_enctr_001b | 0
+Pyro | ab pyro int side entrance 005 | ab_pyro_int_side_entrance_005 | 0
+Pyro | ab pyro int dung exec 005 | ab_pyro_int_dung_exec_005 | 0
+Pyro | ab pyro int side entrance 007 | ab_pyro_int_side_entrance_007 | 0
+Stanton | tail sfce a OC INT | tail_sfce_a_OC_INT | 0
+Stanton | delta 005 int c OC | delta_005_int_c_OC | 0
+Stanton | ObjectContainer nose sfce a int | ObjectContainer_nose_sfce_a_int | 0
+Stanton | ObjectContainer tail sfce a int | ObjectContainer_tail_sfce_a_int | 0
+Stanton | delta 002 int a OC | delta_002_int_a_OC | 0
+Stanton | delta 004 int b OC | delta_004_int_b_OC | 0
+Stanton | ObjectContainer wing back rgt sfce a int | ObjectContainer_wing_back_rgt_sfce_a_int | 0
+Stanton | ObjectContainer middle sfce a int | ObjectContainer_middle_sfce_a_int | 0
+Stanton | nose sfce a int OC | nose_sfce_a_int_OC | 0
+Stanton | middle lge sfce a OC INT | middle_lge_sfce_a_OC_INT | 0
+Stanton | middle lge sfce b OC Int | middle_lge_sfce_b_OC_Int | 0
+Stanton | nose med sfce int a OC | nose_med_sfce_int_a_OC | 0
+Stanton | middle sml sfce a int OC | middle_sml_sfce_a_int_OC | 0
+Stanton | middle lge sfce int a OC-001 | middle_lge_sfce_int_a_OC-001 | 0
+Stanton | middle lge sfce int a OC-002 | middle_lge_sfce_int_a_OC-002 | 0
+Stanton | ab mine stanton1 med 006 | ab_mine_stanton1_med_006 | 0
+Stanton | ab mine stanton1 med 005 | ab_mine_stanton1_med_005 | 0
+Stanton | ab mine stanton1 med 004 | ab_mine_stanton1_med_004 | 0
+Stanton | ab mine stanton1 med 002 | ab_mine_stanton1_med_002 | 0
+Stanton | ab mine stanton1 med 001 | ab_mine_stanton1_med_001 | 0
+Stanton | ab mine stanton1 med 008 | ab_mine_stanton1_med_008 | 0
+Stanton | ab mine stanton1 sml 003 | ab_mine_stanton1_sml_003 | 0
+Stanton | ObjectContainer hull sfce c int | ObjectContainer_hull_sfce_c_int | 0
+Stanton | nose sfce b OC INT | nose_sfce_b_OC_INT | 0
+Stanton | delta 004 int a OC | delta_004_int_a_OC | 0
+Stanton | middle sml sfce c OC INT | middle_sml_sfce_c_OC_INT | 0
+Stanton | nose sfce a OC INT | nose_sfce_a_OC_INT | 0
+Stanton | delta 005 int a OC | delta_005_int_a_OC | 0
+Stanton | ObjectContainer-Ground Lobby | ObjectContainer-Ground_Lobby | 0
+Stanton | ObjectContainer-Newbab Hab Tower Int 001 | ObjectContainer-Newbab_Hab_Tower_Int_001 | 0
+Stanton | ObjectContainer hull sfce a int | ObjectContainer_hull_sfce_a_int | 0
+Stanton | drlct habs sm int 15 a | drlct_habs_sm_int_15_a | 0
+Stanton | middle sml sfce b OC | middle_sml_sfce_b_OC | 0
+Stanton | ab mine stanton4 med 008 | ab_mine_stanton4_med_008 | 0
+Stanton | ab mine stanton4 med 011 | ab_mine_stanton4_med_011 | 0
+Stanton | command sfce a int OC | command_sfce_a_int_OC | 0
+Stanton | ab mine stanton4 med 006 | ab_mine_stanton4_med_006 | 0
+Stanton | ab mine stanton4 med 007 | ab_mine_stanton4_med_007 | 0
+Stanton | ab mine stanton4 med 005 | ab_mine_stanton4_med_005 | 0
+Stanton | ab mine stanton4 med 002 | ab_mine_stanton4_med_002 | 0
+Stanton | ab mine stanton4 med 003 | ab_mine_stanton4_med_003 | 0
+Stanton | ab mine stanton4 med 004 | ab_mine_stanton4_med_004 | 0
+Stanton | ab mine stanton4 med 001 | ab_mine_stanton4_med_001 | 0
+Stanton | delta 000 int a OC | delta_000_int_a_OC | 0
+Stanton | ObjectContainer wing back lft sfce a int | ObjectContainer_wing_back_lft_sfce_a_int | 0
+Stanton | middle sml sfce a OC INT | middle_sml_sfce_a_OC_INT | 0
+Stanton | drlct starun sfce nose int bsd ovgr a | drlct_starun_sfce_nose_int_bsd_ovgr_a | 0
+Stanton | delta 004 int c OC | delta_004_int_c_OC | 0
+Stanton | OC mid med mose e | OC_mid_med_mose_e | 0
+Stanton | nose sml sfce a int OC | nose_sml_sfce_a_int_OC | 0
+Stanton | ObjectContainerModifier-019 | ObjectContainerModifier-019 | 0
+Stanton | delta 005 int b OC | delta_005_int_b_OC | 0
+Stanton | delta 001 int a OC | delta_001_int_a_OC | 0
+Stanton | ObjectContainer nose sfce b int | ObjectContainer_nose_sfce_b_int | 0
+Stanton | nose sml sfce a int OC-005 | nose_sml_sfce_a_int_OC-005 | 0
+Stanton | tail sml sfce int a OC-005 | tail_sml_sfce_int_a_OC-005 | 0
+Nyx | rs comm nyx pyro jp1 | rs_comm_nyx_pyro_jp1 | 0
+Nyx | rs entry nyx pyro jp1 | rs_entry_nyx_pyro_jp1 | 0
+Nyx | rs comm nyx castra jp1 | rs_comm_nyx_castra_jp1 | 0
+Nyx | rs entry nyx castra jp1 | rs_entry_nyx_castra_jp1 | 0
+Nyx | rs int layout keeger 03 | rs_int_layout_keeger_03 | 0
+Stanton | entrance int lrg office a base-001 | entrance_int_lrg_office_a_base-001 | 0
+Nyx | rs int layout keeger 02 | rs_int_layout_keeger_02 | 0
+Nyx | rs int layout keeger 04 | rs_int_layout_keeger_04 | 0
+Nyx | rs int layout keeger 01 | rs_int_layout_keeger_01 | 0
+Nyx | ObjectContainer-teachsshipshop | ObjectContainer-teachsshipshop | 0
+Stanton | restaurant a base-006 | restaurant_a_base-006 | 0
+Stanton | entrance int lrg reception a base-016 | entrance_int_lrg_reception_a_base-016 | 0
+Stanton | orison elev lobby b base-010 | orison_elev_lobby_b_base-010 | 0
+Stanton | orison elev lobby b single elev base-005 | orison_elev_lobby_b_single_elev_base-005 | 0
+Stanton | orison elev lobby b single elev base-004 | orison_elev_lobby_b_single_elev_base-004 | 0
+Stanton | entrance int lrg reception a base-013 | entrance_int_lrg_reception_a_base-013 | 0
+Stanton | entrance interior lrg gym a base-002 | entrance_interior_lrg_gym_a_base-002 | 0
+Stanton | orison elev lobby b base-009 | orison_elev_lobby_b_base-009 | 0
+Stanton | restaurant a base-002 | restaurant_a_base-002 | 0
+Stanton | orison elev lobby b base-008 | orison_elev_lobby_b_base-008 | 0
+Stanton | orison elev lobby b base-007 | orison_elev_lobby_b_base-007 | 0
+Stanton | entrance int lrg reception a base-017 | entrance_int_lrg_reception_a_base-017 | 0
+Stanton | entrance int lrg office b base-005 | entrance_int_lrg_office_b_base-005 | 0
+Stanton | entrance int lrg reception b base-009 | entrance_int_lrg_reception_b_base-009 | 0
+Stanton | entrance int lrg office c base | entrance_int_lrg_office_c_base | 0
+Stanton | orison elev lobby b base-001 | orison_elev_lobby_b_base-001 | 0
+Stanton | orison elev lobby b base | orison_elev_lobby_b_base | 0
+Stanton | oc orison hospital int-001 | oc_orison_hospital_int-001 | 0
+Stanton | OC arcade int 001 | OC_arcade_int_001 | 0
+Stanton | ObjectContainer-028 | ObjectContainer-028 | 0
+Stanton | entrance int lrg reception a base-015 | entrance_int_lrg_reception_a_base-015 | 0
+Stanton | entrance int lrg reception a base-014 | entrance_int_lrg_reception_a_base-014 | 0
+Stanton | entrance int lrg reception b base-012 | entrance_int_lrg_reception_b_base-012 | 0
+Stanton | orison elev lobby b base-014 | orison_elev_lobby_b_base-014 | 0
+Stanton | orison elev lobby b base-013 | orison_elev_lobby_b_base-013 | 0
+Stanton | restaurant a base-076 | restaurant_a_base-076 | 0
+Stanton | restaurant a base-077 | restaurant_a_base-077 | 0
+Stanton | entrance int lrg office b base-002 | entrance_int_lrg_office_b_base-002 | 0
+Stanton | entrance int lrg reception a base-011 | entrance_int_lrg_reception_a_base-011 | 0
+Stanton | restaurant a base-005 | restaurant_a_base-005 | 0
+Stanton | entrance int lrg reception a base-012 | entrance_int_lrg_reception_a_base-012 | 0
+Stanton | entrance int lrg reception b base-013 | entrance_int_lrg_reception_b_base-013 | 0
+Stanton | orison elev lobby b single elev base-030 | orison_elev_lobby_b_single_elev_base-030 | 0
+Stanton | restaurant a base-007 | restaurant_a_base-007 | 0
+Stanton | entrance int lrg reception a base-070 | entrance_int_lrg_reception_a_base-070 | 0
+Stanton | entrance int lrg reception a base-007 | entrance_int_lrg_reception_a_base-007 | 0
+Stanton | orison elev lobby b base-012 | orison_elev_lobby_b_base-012 | 0
+Stanton | orison elev lobby b single elev base-020 | orison_elev_lobby_b_single_elev_base-020 | 0
+Stanton | orison elev lobby b base-011 | orison_elev_lobby_b_base-011 | 0
+Stanton | orison elev lobby b single elev base-018 | orison_elev_lobby_b_single_elev_base-018 | 0
+Stanton | entrance int lrg reception a base-009 | entrance_int_lrg_reception_a_base-009 | 0
+Stanton | entrance int lrg reception b base-008 | entrance_int_lrg_reception_b_base-008 | 0
+Stanton | restaurant a base-004 | restaurant_a_base-004 | 0
+Stanton | orison elev lobby b base-016 | orison_elev_lobby_b_base-016 | 0
+Stanton | entrance int lrg office b base-001 | entrance_int_lrg_office_b_base-001 | 0
+Stanton | entrance int lrg reception b base | entrance_int_lrg_reception_b_base | 0
+Stanton | entrance int lrg reception b base-010 | entrance_int_lrg_reception_b_base-010 | 0
+Stanton | entrance int lrg office b base-004 | entrance_int_lrg_office_b_base-004 | 0
+Stanton | restaurant a base-003 | restaurant_a_base-003 | 0
+Stanton | entrance int lrg reception a base-010 | entrance_int_lrg_reception_a_base-010 | 0
+Stanton | orison elev lobby b single elev base-029 | orison_elev_lobby_b_single_elev_base-029 | 0
+Stanton | entrance interior lrg gym a base-001 | entrance_interior_lrg_gym_a_base-001 | 0
+Stanton | entrance int lrg reception a base | entrance_int_lrg_reception_a_base | 0
+Pyro | ab pyro int side entrance 001 | ab_pyro_int_side_entrance_001 | 0
+Pyro | rs int p5l2 | rs_int_p5l2 | 0
+Pyro | rs cargo 001 | rs_cargo_001 | 0
+Pyro | rstop hatch int 001 rund 002 | rstop_hatch_int_001_rund_002 | 0
+Pyro | rstop hatch int 001 rund 001 | rstop_hatch_int_001_rund_001 | 0
+Pyro | LocationHarvestableObjectContainer ab pyro int enctr 001 | LocationHarvestableObjectContainer_ab_pyro_int_enctr_001 | 0
+Pyro | ab pyro int side entrance 004 | ab_pyro_int_side_entrance_004 | 0
+Pyro | LocationHarvestableObjectContainer ab pyro int enctr 001a | LocationHarvestableObjectContainer_ab_pyro_int_enctr_001a | 0
+Pyro | rs int p3l3 | rs_int_p3l3 | 0
+Pyro | ab pyro int dung 001 | ab_pyro_int_dung_001 | 0
+Pyro | rs int p3l1 | rs_int_p3l1 | 0
+Pyro | hangar medfrnt asteroidbase rund | hangar_medfrnt_asteroidbase_rund | 0
+Pyro | rstop hatch int 001 rund 003 | rstop_hatch_int_001_rund_003 | 0
+Pyro | rs int p6l5 | rs_int_p6l5 | 0
+Pyro | ab pyro int side entrance 006 | ab_pyro_int_side_entrance_006 | 0
+Pyro | ab pyro int dung exec 004 | ab_pyro_int_dung_exec_004 | 0
+Pyro | rs int p6l3 | rs_int_p6l3 | 0
+Pyro | ab pyro int dung exec 002 | ab_pyro_int_dung_exec_002 | 0
+Pyro | rs int p5l4 | rs_int_p5l4 | 0
+Pyro | rs int p6l4 | rs_int_p6l4 | 0
+Pyro | rs int p5l5 | rs_int_p5l5 | 0
+Pyro | rs cz rewards 001 | rs_cz_rewards_001 | 0
+Pyro | rs refinery pyro | rs_refinery_pyro | 0
+Pyro | rs int p2l4 | rs_int_p2l4 | 0
+Pyro | dealership rundown 001 | dealership_rundown_001 | 0
+Pyro | p2l4 contestedzone | p2l4_contestedzone | 0
+Pyro | rs comm pyro-nyx jp | rs_comm_pyro-nyx_jp | 0
+Pyro | rs entry pyro-nyx jp | rs_entry_pyro-nyx_jp | 0
+Pyro | rs comm pyro-stan jp1 | rs_comm_pyro-stan_jp1 | 0
+Pyro | rs entry pyro-stan jp1 | rs_entry_pyro-stan_jp1 | 0
+Pyro | rs int p6leo ruinstation | rs_int_p6leo_ruinstation | 0
+Pyro | rs opendungeon rund 002 | rs_opendungeon_rund_002 | 0
+Stanton | delta 005 int d OC | delta_005_int_d_OC | 0
+Stanton | ObjectContainer tail sfce b int | ObjectContainer_tail_sfce_b_int | 0
+Pyro | rs int p3leo | rs_int_p3leo | 0
+Pyro | rs cz rewards 003 | rs_cz_rewards_003 | 0
+Pyro | p5l2 contestedzone | p5l2_contestedzone | 0
+Stanton | tail sfce b OC INT | tail_sfce_b_OC_INT | 0
+Stanton | middle sml sfce b OC INT | middle_sml_sfce_b_OC_INT | 0
+Stanton | rear lge sfce int a OC | rear_lge_sfce_int_a_OC | 0
+Stanton | tail sfce c OC INT | tail_sfce_c_OC_INT | 0
+Stanton | ObjectContainer hull sfce b int | ObjectContainer_hull_sfce_b_int | 0
+Stanton | middle lge sfce int a OC | middle_lge_sfce_int_a_OC | 0
+Stanton | tail sml sfce int a OC | tail_sml_sfce_int_a_OC | 0
+Stanton | OC ctplr sfce middle sml d int-000 | OC_ctplr_sfce_middle_sml_d_int-000 | 0
+Stanton | rear lge sfce int a OC-013 | rear_lge_sfce_int_a_OC-013 | 0
+Stanton | ObjectContainer-0002 INT | ObjectContainer-0002_INT | 0
+Stanton | middle lge sfce int a OC-003 | middle_lge_sfce_int_a_OC-003 | 0
+Stanton | ObjectContainerModifier-020 | ObjectContainerModifier-020 | 0
+Stanton | delta 003 int a OC | delta_003_int_a_OC | 0
+Stanton | ObjectContainer-Newbab Domes Int 001 | ObjectContainer-Newbab_Domes_Int_001 | 0
+Stanton | ObjectContainer-newbab sp transit int 001 | ObjectContainer-newbab_sp_transit_int_001 | 0
+Stanton | ObjectContainerModifier SP INT | ObjectContainerModifier_SP_INT | 0
+Stanton | ObjectContainer-ht a surfaceentrance a int newbab | ObjectContainer-ht_a_surfaceentrance_a_int_newbab | 0
+Stanton | newbab iae lobby dummy | newbab_iae_lobby_dummy | 0
+Stanton | delta 005 int h OC | delta_005_int_h_OC | 0
+Stanton | nose sml sfce int b OC | nose_sml_sfce_int_b_OC | 0
+Stanton | rear sml sfce int temp OC002 | rear_sml_sfce_int_temp_OC002 | 0
+Stanton | middle lge sfce int a OC-007 | middle_lge_sfce_int_a_OC-007 | 0
+Stanton | ObjectContainer-007 | ObjectContainer-007 | 0
+Stanton | rear sml sfce int temp OC-002 | rear_sml_sfce_int_temp_OC-002 | 0
+Stanton | OC nose sml sfce int vb-000 | OC_nose_sml_sfce_int_vb-000 | 0
+Stanton | tail sfce C int OC | tail_sfce_C_int_OC | 0
+Stanton | OC nose med d | OC_nose_med_d | 0
+Stanton | OC middle sml sfce vc | OC_middle_sml_sfce_vc | 0
+Stanton | tail sml sfce ext vb OC | tail_sml_sfce_ext_vb_OC | 0
+Stanton | rear lge sfce int a OC-020 | rear_lge_sfce_int_a_OC-020 | 0
+Stanton | middle lge sfce int i | middle_lge_sfce_int_i | 0
+Stanton | OC middle lge sfce h ext | OC_middle_lge_sfce_h_ext | 0
+Stanton | sml sfce ext vb OC | sml_sfce_ext_vb_OC | 0
+Stanton | tail sfce a int OC-010 | tail_sfce_a_int_OC-010 | 0
+Stanton | nose med sfce int a OC-001 | nose_med_sfce_int_a_OC-001 | 0
+Stanton | middle sml sfce temp OC-002 | middle_sml_sfce_temp_OC-002 | 0
+Stanton | OC ctplr sfce mid med va int-000 | OC_ctplr_sfce_mid_med_va_int-000 | 0
+Nyx | levski v2 topdeck | levski_v2_topdeck | 0
+Nyx | levski v2 bottomdeck | levski_v2_bottomdeck | 0
+Nyx | levski v2 refindeck | levski_v2_refindeck | 0
+Nyx | levski v2 middeck | levski_v2_middeck | 0
+Stanton | nose sfce a int OC-001 | nose_sfce_a_int_OC-001 | 0
+Stanton | ObjectContainer-039 | ObjectContainer-039 | 0
+Stanton | nose sml sfce c int OC | nose_sml_sfce_c_int_OC | 0
+Stanton | lge sfce ext va intOC | lge_sfce_ext_va_intOC | 0
+Stanton | rear lge sfce int a OC-027 | rear_lge_sfce_int_a_OC-027 | 0
+Stanton | nose med sfce int a OC-004 | nose_med_sfce_int_a_OC-004 | 0
+Stanton | ObjectContainer-newbab sp surface entrance int | ObjectContainer-newbab_sp_surface_entrance_int | 0
+Stanton | OC ctplr sfce mid med a int-000 | OC_ctplr_sfce_mid_med_a_int-000 | 0
+Stanton | tail sml sfce int vd OC | tail_sml_sfce_int_vd_OC | 0
+Stanton | OC Nose med sfce ctpl g | OC_Nose_med_sfce_ctpl_g | 0
+Stanton | ObjectContainer-Gate03 Int | ObjectContainer-Gate03_Int | 0
+Stanton | ObjectContainer-lorville sp int | ObjectContainer-lorville_sp_int | 0
+Stanton | ObjectContainer-gate 02 int | ObjectContainer-gate_02_int | 0
+Stanton | ObjectContainer-gate1 int | ObjectContainer-gate1_int | 0
+Stanton | lorville l19 int | lorville_l19_int | 0
+Stanton | ObjectContainer-lorville cbd int | ObjectContainer-lorville_cbd_int | 0
+Stanton | ObjectContainer-gate 05 int | ObjectContainer-gate_05_int | 0
+Stanton | ObjectContainer-gate 06 int | ObjectContainer-gate_06_int | 0
+Stanton | ObjectContainer-gate 04 int | ObjectContainer-gate_04_int | 0
+Stanton | RastarInteriorGridHost 200000378969 | RastarInteriorGridHost_200000378969 | 0
