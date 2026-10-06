@@ -1,5 +1,9 @@
 # ChrisWareOffline
 
+
+
+REMINDER RIGHT CLICK THE BAT FILE AND PASTE AT THE TOP THE ROOT ROUTE TO UR STAR CITIZEN AND SAVE.
+
 ![A Vanduul holding a gun on a desert planet with a line of Vanduul and a big ship behind it](images/screenshot.webp)
 
 ## Discord
